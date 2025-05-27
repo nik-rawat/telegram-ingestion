@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { TelegramMessage } from "./telegram";
-import { extractInvestmentData, InvestmentData } from "./investmentParser";
+import { extractInvestmentData, InvestmentData } from "../parsers/investmentParser";
 
 // Ensure directory exists, now with support for nested paths
 export function ensureDirectoryExists(dirPath: string = "./data"): void {

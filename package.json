@@ -6,8 +6,8 @@
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --no-deprecation -r ts-node/register fetchMessagesGenAI.ts",
-    "start-nlp": "ts-node fetchMessages.ts"
+    "start": "node --no-deprecation -r ts-node/register src/scripts/fetchMessagesGenAI.ts",
+    "start-nlp": "ts-node src/scripts/fetchMessages.ts"
   },
   "keywords": [],
   "author": "",

@@ -1,9 +1,9 @@
-import { TelegramMessage } from "./telegram";
+import { TelegramMessage } from "../core/telegram";
 import fs from "fs";
 import path from "path";
 import { spawn } from "child_process";
-import { extractChannelId, sanitizeFilename, getChannelDirectory, ensureDirectoryExists } from "./dataService";
-import type { InvestmentData } from "./src/types/index";
+import { extractChannelId, sanitizeFilename, getChannelDirectory, ensureDirectoryExists } from "../core/dataService";
+import type { InvestmentData } from "../types/index";
 import dotenv from "dotenv";
 dotenv.config();
 

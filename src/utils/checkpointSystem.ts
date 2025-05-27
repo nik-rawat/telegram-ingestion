@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { ensureDirectoryExists } from './dataService';
+import { ensureDirectoryExists } from '../core/dataService';
 
 interface CheckpointData {
   channel: string;

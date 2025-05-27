@@ -1,9 +1,9 @@
-import { fetchTelegramMessages } from "./telegram.js";
-import { saveMessagesToFile } from "./dataService.js";
-import { saveAIInvestmentData } from "./genAI.js";
+import { fetchTelegramMessages } from "../core/telegram.js";
+import { saveMessagesToFile } from "../core/dataService.js";
+import { saveAIInvestmentData } from "../parsers/genAI.js";
 import fs from "fs";
 import path from "path";
-import { extractChannelId, sanitizeFilename, getChannelDirectory, ensureDirectoryExists } from "./dataService.js";
+import { extractChannelId, sanitizeFilename, getChannelDirectory, ensureDirectoryExists } from "../core/dataService.js";
 
 const BATCH_SIZE = 25; // Process 25 messages per API batch
 const DELAY_BETWEEN_BATCHES = 5000; // 5 seconds between batches
@@ -117,7 +117,7 @@ async function processBulkMessages(channel: string, totalLimit = 1000): Promise<
  */
 async function processMessagesWithAI(messages: any[]): Promise<any[]> {
   // Import dynamically to avoid circular dependencies
-  const { extractInvestmentsWithAI } = await import("./genAI.js");
+  const { extractInvestmentsWithAI } = await import("../parsers/genAI.js");
   return extractInvestmentsWithAI(messages);
 }
 
@@ -137,7 +137,7 @@ async function mergeBatchResults(resultsDir: string, channel: string): Promise<v
   }
   
   // Save merged results using the standard function
-  const { saveAIInvestmentData } = await import("./genAI.js");
+  const { saveAIInvestmentData } = await import("../parsers/genAI.js");
   const finalFilePath = await saveAIInvestmentData(channel, allInvestments);
   
   console.log(`All batches merged successfully. Final results saved to: ${finalFilePath}`);

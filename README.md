@@ -112,13 +112,13 @@ GEMINI_API_KEY=your_gemini_api_key
 
 Run the application:
 
-For NLP generated processing
+For GenAI generated processing
 ```bash
 npm start
 ```
-For GenAI generated processing
+For NLP generated processing
 ```bash
-npm start-genai
+npm start-nlp
 ```
 
 ## Future Scope

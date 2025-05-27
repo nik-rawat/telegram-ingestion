@@ -2,7 +2,7 @@ import { TelegramClient } from "telegram";
 import { StringSession } from "telegram/sessions";
 import { createInterface } from "readline";
 import dotenv from "dotenv";
-import { analyzeText, ExtractedEntities } from "./nlpService";
+import { analyzeText, ExtractedEntities } from "../parsers/nlpService";
 dotenv.config();
 
 const apiId = Number(process.env.TELEGRAM_API_ID);

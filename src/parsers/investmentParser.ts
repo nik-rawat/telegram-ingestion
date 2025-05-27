@@ -1,4 +1,4 @@
-import { TelegramMessage } from "./telegram";
+import { TelegramMessage } from "../core/telegram";
 
 // Interface for structured investment data
 export interface InvestmentData {

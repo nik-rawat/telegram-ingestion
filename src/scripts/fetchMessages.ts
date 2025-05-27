@@ -1,5 +1,5 @@
-import { fetchTelegramMessages } from "./telegram";
-import { saveMessagesToFile, saveInvestmentData } from "./dataService";
+import { fetchTelegramMessages } from "../core/telegram";
+import { saveMessagesToFile, saveInvestmentData } from "../core/dataService";
 
 async function main() {
   try {

@@ -1,0 +1,30 @@
+{
+  "name": "mentibus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchMessagesGenAI.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --no-deprecation -r ts-node/register fetchMessagesGenAI.ts",
+    "start-nlp": "ts-node fetchMessages.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.0.1",
+    "@nlpjs/basic": "^5.0.0-alpha.5",
+    "@nlpjs/nlp": "^5.0.0-alpha.5",
+    "compromise": "^14.14.4",
+    "dotenv": "^16.5.0",
+    "natural": "^8.0.1",
+    "telegram": "^2.26.22"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "ts-node": "^10.9.1",
+    "tsx": "^4.6.2",
+    "typescript": "^5.2.2"
+  }
+}

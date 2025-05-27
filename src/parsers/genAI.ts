@@ -27,7 +27,7 @@ async function callGeminiAPI(prompt: string, model = "gemini-2.0-flash-lite"): P
     const childProcess = spawn('node', [
       '--no-warnings',
       '--no-deprecation',
-      'geminiWrapper.mjs', 
+      './src/parsers/geminiWrapper.mjs', 
       inputFile, 
       outputFile
     ], {

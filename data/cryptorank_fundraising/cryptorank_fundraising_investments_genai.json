@@ -1,0 +1,1713 @@
+{
+  "totalInvestments": 96,
+  "investmentsByType": {
+    "acquisition": 9,
+    "investment": 83,
+    "roundup": 4
+  },
+  "topInvestors": {
+    "Animoca Brands": 7,
+    "others": 7,
+    "Coinbase Ventures": 7,
+    "Andreessen Horowitz (a16z)": 6,
+    "1kx": 6,
+    "Mirana Ventures": 5,
+    "Borderless Capital": 4,
+    "MH Ventures": 4,
+    "a16z CSX": 4,
+    "GSR": 4,
+    "Robot Ventures": 4,
+    "Selini Capital": 3,
+    "CMS Holdings": 3,
+    "Maelstrom": 3,
+    "Galaxy": 3,
+    "Amber Group": 3,
+    "Hack VC": 3,
+    "Blockchain Capital": 3,
+    "Delphi Ventures": 3,
+    "Gate Ventures": 2
+  },
+  "roundDistribution": {
+    "Strategic": 14,
+    "Funding": 22,
+    "Seed": 22,
+    "Acquisition": 9,
+    "Private Token Sale": 1,
+    "Series B": 2,
+    "Series A": 9,
+    "Roundup": 4,
+    "Pre-Series A": 2,
+    "Pre-Seed": 5,
+    "Undisclosed Round": 2,
+    "Angel Round": 1,
+    "Series C": 2,
+    "Token Sale": 1
+  },
+  "investments": [
+    {
+      "company": "Plasma",
+      "type": "investment",
+      "date": "2025-05-23T10:12:36.000Z",
+      "rawText": "​​Plasma Strategic Round ⚡️\n\n📑 About:\nPlasma is a high-throughput, zero-fee payment platform built on Bitcoin. \n\n🤝 Investor:\nFounders Fund\n\n👉 cryptorank.io/ico/plasma",
+      "round": "Strategic",
+      "investors": [
+        "Founders Fund"
+      ],
+      "about": "Plasma is a high-throughput, zero-fee payment platform built on Bitcoin.",
+      "links": [
+        "https://cryptorank.io/ico/plasma"
+      ]
+    },
+    {
+      "company": "Impossible Cloud Network",
+      "type": "investment",
+      "date": "2025-05-22T16:02:58.000Z",
+      "rawText": "​​Impossible Cloud Network Funding Round⚡️\n\n📑 About:\nImpossible Cloud Network is a multi-service cloud platform.\n\n🤝 Investor:\nNGP Capital\n\n🏷 Valuation: $470M\n\n👉 cryptorank.io/ico/impossible-cloud-network",
+      "amount": "Undisclosed",
+      "round": "Funding",
+      "investors": [
+        "NGP Capital"
+      ],
+      "about": "Impossible Cloud Network is a multi-service cloud platform.",
+      "valuation": "470M",
+      "links": [
+        "https://cryptorank.io/ico/impossible-cloud-network"
+      ]
+    },
+    {
+      "company": "Arai Systems",
+      "type": "investment",
+      "date": "2025-05-22T14:19:55.000Z",
+      "rawText": "​​ARAI $4M Seed Round⚡️\n\n📑 About:\nArai Systems offers AI-driven tools that integrate with decentralized platforms to provide real-time assistance and strategic guidance.\n\n🤝 Investors:\nHongShan (ex-Sequoia China), Animoca Brands, Folius Ventures, Skyland Ventures, Gate Ventures, and Redpoint China ",
+      "amount": "4M",
+      "round": "Seed",
+      "investors": [
+        "HongShan (ex-Sequoia China)",
+        "Animoca Brands",
+        "Folius Ventures",
+        "Skyland Ventures",
+        "Gate Ventures",
+        "Redpoint China"
+      ],
+      "about": "Arai Systems offers AI-driven tools that integrate with decentralized platforms to provide real-time assistance and strategic guidance."
+    },
+    {
+      "company": "Roxom",
+      "type": "investment",
+      "date": "2025-05-22T13:55:15.000Z",
+      "rawText": "​​Roxom $17.9M Funding Round⚡️\n\n📑 About:\nRoxom is an exchange that offers stock, commodities, and futures trading priced and denominated in Bitcoin. \n\n🤝 Investors:\nDraper Associates, Borderless Capital, Kingsway Capital, and Ego Death Capital\n\n👉 cryptorank.io/ico/roxom",
+      "amount": "17.9M",
+      "round": "Funding",
+      "investors": [
+        "Draper Associates",
+        "Borderless Capital",
+        "Kingsway Capital",
+        "Ego Death Capital"
+      ],
+      "about": "Roxom is an exchange that offers stock, commodities, and futures trading priced and denominated in Bitcoin.",
+      "links": [
+        "https://cryptorank.io/ico/roxom"
+      ]
+    },
+    {
+      "company": "DigiShares",
+      "type": "investment",
+      "date": "2025-05-22T12:12:58.000Z",
+      "rawText": "​​DigiShares $1.35M Strategic Round⚡️\n\n📑 About:\nDigiShares is a provider of white-label solutions for the tokenization of real-world assets. \n\n🤝 Investor:\nValereum\n\n👉 cryptorank.io/ico/digishares",
+      "amount": "1.35M",
+      "round": "Strategic",
+      "investors": [
+        "Valereum"
+      ],
+      "about": "DigiShares is a provider of white-label solutions for the tokenization of real-world assets.",
+      "links": [
+        "https://cryptorank.io/ico/digishares"
+      ]
+    },
+    {
+      "company": "Tokeny",
+      "type": "acquisition",
+      "date": "2025-05-22T07:59:25.000Z",
+      "rawText": "​​Apex Group has acquired Tokeny ⚡️\n\n📑 About:\nTokeny provides a compliance infrastructure for companies and financial institutions to compliantly issue, transfer and manage securities.\n\n🤝 Acquired by:\nApex Group, a global financial services provider.\n\n👉 cryptorank.io/ico/tokeny",
+      "acquirer": "Apex Group",
+      "amount": "Undisclosed",
+      "about": "Tokeny provides a compliance infrastructure for companies and financial institutions to compliantly issue, transfer and manage securities.",
+      "links": [
+        "https://cryptorank.io/ico/tokeny"
+      ]
+    },
+    {
+      "company": "World",
+      "type": "investment",
+      "date": "2025-05-22T07:27:29.000Z",
+      "rawText": "​​World $135M Private Token Sale ⚡️\n\n📑 About:\nWorld is an EVM-compatible optimistic rollup blockchain platform built on top of Ethereum as part of Optimism Superchain.\n\n🤝 Investors:\nAndreessen Horowitz (a16z), Mirana Ventures, Bain Capital Crypto, Selini Capital, and Arctic Digital\n\n👉 cryptorank.",
+      "amount": "135M",
+      "round": "Private Token Sale",
+      "investors": [
+        "Andreessen Horowitz (a16z)",
+        "Mirana Ventures",
+        "Bain Capital Crypto",
+        "Selini Capital",
+        "Arctic Digital"
+      ],
+      "about": "World is an EVM-compatible optimistic rollup blockchain platform built on top of Ethereum as part of Optimism Superchain.",
+      "links": []
+    },
+    {
+      "company": "VOYA Games",
+      "type": "investment",
+      "date": "2025-05-21T15:13:08.000Z",
+      "rawText": "​​VOYA Games $5M Funding Round⚡️\n\n📑 About:\nVOYA Games is a game studio dedicated to building accessible, fun-first Web3 experiences that empower players with meaningful agency.\n\n🤝 Investors:\n1kx (Lead), Makers Fund (Lead), RockawayX, and others.\n\n👉 cryptorank.io/ico/voya-games",
+      "amount": "5M",
+      "round": "Funding",
+      "investors": [
+        "1kx",
+        "Makers Fund",
+        "RockawayX",
+        "others"
+      ],
+      "about": "VOYA Games is a game studio dedicated to building accessible, fun-first Web3 experiences that empower players with meaningful agency.",
+      "links": [
+        "https://cryptorank.io/ico/voya-games"
+      ]
+    },
+    {
+      "company": "Astar",
+      "type": "investment",
+      "date": "2025-05-21T09:12:59.000Z",
+      "rawText": "​​Astar Strategic Round⚡️\n\n📑 About:\nAstar is a multi-chain smart contract platform that supports multiple blockchains and virtual machines.\n\n🤝 Investor:\nAnimoca Brands\n\n👉 cryptorank.io/ico/astar-network",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "Animoca Brands"
+      ],
+      "about": "Astar is a multi-chain smart contract platform that supports multiple blockchains and virtual machines.",
+      "links": [
+        "https://cryptorank.io/ico/astar-network"
+      ]
+    },
+    {
+      "company": "Rover",
+      "type": "investment",
+      "date": "2025-05-20T14:57:00.000Z",
+      "rawText": "​​Rover $4.1M Seed Round⚡️\n\n📑 About:\nRover is a decentralized liquid staking protocol for Bitcoin, built on Botanix. \n\n🤝 Investors:\nCMS Holdings, Infinity Ventures Crypto (IVC), Maelstrom, Animoca Ventures, UTXO Management, Builder Capital, and others\n\n👉 cryptorank.io/ico/rover-defi",
+      "amount": "4.1M",
+      "round": "Seed",
+      "investors": [
+        "CMS Holdings",
+        "Infinity Ventures Crypto (IVC)",
+        "Maelstrom",
+        "Animoca Ventures",
+        "UTXO Management",
+        "Builder Capital"
+      ],
+      "about": "Rover is a decentralized liquid staking protocol for Bitcoin, built on Botanix.",
+      "links": [
+        "https://cryptorank.io/ico/rover-defi"
+      ]
+    },
+    {
+      "company": "Slash",
+      "type": "investment",
+      "date": "2025-05-20T14:29:38.000Z",
+      "rawText": "​​Slash $41M Series B Round⚡️\n\n📑 About:\nSlash is a fintech company that provides banking services for entrepreneurs and small businesses. \n\n🤝 Investor:\nGoodwater Capital (Lead)\n\n🏷 Valuation: $370M\n\n👉 cryptorank.io/ico/slash-payments",
+      "amount": "41M",
+      "round": "Series B",
+      "investors": [
+        "Goodwater Capital"
+      ],
+      "about": "Slash is a fintech company that provides banking services for entrepreneurs and small businesses.",
+      "valuation": "370M",
+      "links": [
+        "https://cryptorank.io/ico/slash-payments"
+      ]
+    },
+    {
+      "company": "TrueX",
+      "type": "investment",
+      "date": "2025-05-20T14:22:43.000Z",
+      "rawText": "​​TrueX $11M Series A Round⚡️\n\n📑 About:\nTrueX is a non-custodial, stablecoin-native exchange offering global liquidity services with PYUSD as the default settlement currency.\n\n🤝 Investors:\nAccomplice (Lead), RRE Ventures (Lead), Variant, Reciprocal Ventures, and PayPal Ventures\n\n👉 cryptorank.io/i",
+      "amount": "11M",
+      "round": "Series A",
+      "investors": [
+        "Accomplice",
+        "RRE Ventures",
+        "Variant",
+        "Reciprocal Ventures",
+        "PayPal Ventures"
+      ],
+      "about": "TrueX is a non-custodial, stablecoin-native exchange offering global liquidity services with PYUSD as the default settlement currency.",
+      "links": [
+        "https://cryptorank.io/i"
+      ]
+    },
+    {
+      "company": "Catena Labs",
+      "type": "investment",
+      "date": "2025-05-20T12:37:49.000Z",
+      "rawText": "​​Catena Labs $18M Seed Round⚡️\n\n📑 About:\nCatena Labs is developing a financial infrastructure designed specifically for AI agents. \n\n🤝 Investors:\nAndreessen Horowitz (a16z) (Lead), Coinbase Ventures, CoinFund, Circle Ventures, Pillar VC, and others.\n\n👉 cryptorank.io/ico/catena-labs",
+      "amount": "18M",
+      "round": "Seed",
+      "investors": [
+        "Andreessen Horowitz (a16z)",
+        "Coinbase Ventures",
+        "CoinFund",
+        "Circle Ventures",
+        "Pillar VC"
+      ],
+      "about": "Catena Labs is developing a financial infrastructure designed specifically for AI agents.",
+      "links": [
+        "https://cryptorank.io/ico/catena-labs"
+      ]
+    },
+    {
+      "company": "ORIGYN",
+      "type": "acquisition",
+      "date": "2025-05-19T15:21:18.000Z",
+      "rawText": "​​ORIGYN has acquired ClaimLink ⚡️\n\n📑 About:\nClaimLink is a decentralized platform designed to simplify the distribution of NFTs and tokens. \n\n🤝 Acquired by:\nORIGYN, a decentralized community for the fine art market on the blockchain.\n\n👉 cryptorank.io/ico/claimlink",
+      "acquirer": "ORIGYN",
+      "amount": "Undisclosed",
+      "about": "ORIGYN is a decentralized community for the fine art market on the blockchain.",
+      "links": [
+        "https://cryptorank.io/ico/claimlink"
+      ]
+    },
+    {
+      "company": "DexterLab",
+      "type": "acquisition",
+      "date": "2025-05-19T08:42:42.000Z",
+      "rawText": "​​Alchemy has acquired DexterLab ⚡️\n\n📑 About:\nDexterLab is a Web3 infrastructure provider specializing in high-performance data solutions for blockchain ecosystems. \n\n🤝 Acquired by:\nAlchemy, a developer platform that helps companies to build reliable decentralized applications.\n\n👉 cryptorank.io/i",
+      "acquirer": "Alchemy",
+      "amount": "Undisclosed",
+      "about": "DexterLab is a Web3 infrastructure provider specializing in high-performance data solutions for blockchain ecosystems.",
+      "links": [
+        "https://cryptorank.io/i"
+      ]
+    },
+    {
+      "company": [
+        "Hedra",
+        "Perpl",
+        "KYD Labs",
+        "XP",
+        "Turtle.Club",
+        "Nirvana Labs",
+        "TrendX"
+      ],
+      "type": "roundup",
+      "date": "2025-05-17T09:16:11.000Z",
+      "rawText": "​​Top 7 Most Notable Rounds of This Week\n\nBig week for AI & social projects with funding flowing into:\n\nHedra – $32.0M\nPerpl – $9.25M\nKYD Labs – $7.1M\nXP – $6.2M\nTurtle.Club – $6.2M\nNirvana Labs – $6.0M\nTrendX – $5.2M\n\n👉 cryptorank.io/funding-rounds",
+      "amount": [
+        "32.0M",
+        "9.25M",
+        "7.1M",
+        "6.2M",
+        "6.2M",
+        "6.0M",
+        "5.2M"
+      ],
+      "isPartOfRoundup": true,
+      "links": [
+        "https://cryptorank.io/funding-rounds"
+      ]
+    },
+    {
+      "company": "Taker Protocol",
+      "type": "investment",
+      "date": "2025-05-16T15:52:51.000Z",
+      "rawText": "​​Taker Protocol Strategic Round⚡️\n\n📑 About:\nTaker is a DAO-based liquidity protocol for Novel/NFT crypto assets.\n\n🤝 Investor:\n071labs\n\n👉 cryptorank.io/ico/taker-protocol",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "071labs"
+      ],
+      "about": "Taker is a DAO-based liquidity protocol for Novel/NFT crypto assets.",
+      "links": [
+        "https://cryptorank.io/ico/taker-protocol"
+      ]
+    },
+    {
+      "company": "XP",
+      "type": "investment",
+      "date": "2025-05-16T10:22:33.000Z",
+      "rawText": "​​XP $6.2M Seed Round⚡️\n\n📑 About:\nXP is a ticketing platform built on the Solana blockchain. \n\n🤝 Investors:\nBlockchange Ventures (Lead), L1 Digital, and Reflexive Capital\n\n👉 cryptorank.io/ico/xp-tickets",
+      "amount": "6.2M",
+      "round": "Seed",
+      "investors": [
+        "Blockchange Ventures",
+        "L1 Digital",
+        "Reflexive Capital"
+      ],
+      "about": "XP is a ticketing platform built on the Solana blockchain.",
+      "links": [
+        "https://cryptorank.io/ico/xp-tickets"
+      ]
+    },
+    {
+      "company": "TrendX",
+      "type": "investment",
+      "date": "2025-05-16T09:53:03.000Z",
+      "rawText": "​​TrendX $5.2M Strategic Round⚡️\n\n📑 About:\nTrendX stands as an AI-driven powerhouse for Web3 trend tracking and intelligent trading.\n\n🤝 Investors:\nAnimoca Brands and CREAM\n\n👉 cryptorank.io/ico/trendx-tech",
+      "amount": "5.2M",
+      "round": "Strategic",
+      "investors": [
+        "Animoca Brands",
+        "CREAM"
+      ],
+      "about": "TrendX stands as an AI-driven powerhouse for Web3 trend tracking and intelligent trading.",
+      "links": [
+        "https://cryptorank.io/ico/trendx-tech"
+      ]
+    },
+    {
+      "company": "Giza",
+      "type": "investment",
+      "date": "2025-05-15T16:57:50.000Z",
+      "rawText": "​​Giza $2.2M Funding Round⚡️\n\n📑 About:\nGiza is building a trustless protocol to decentralize machine learning inference computation.\n\n🤝 Investors:\nCoinFund, Arrington XRP Capital, MH Ventures, Base Ecosystem Fund, ID Theory, Contango Digital Assets, and others\n\n👉 cryptorank.io/ico/giza",
+      "amount": "2.2M",
+      "round": "Funding",
+      "investors": [
+        "CoinFund",
+        "Arrington XRP Capital",
+        "MH Ventures",
+        "Base Ecosystem Fund",
+        "ID Theory",
+        "Contango Digital Assets"
+      ],
+      "about": "Giza is building a trustless protocol to decentralize machine learning inference computation.",
+      "links": [
+        "https://cryptorank.io/ico/giza"
+      ]
+    },
+    {
+      "company": "XSY",
+      "type": "investment",
+      "date": "2025-05-15T16:27:52.000Z",
+      "rawText": "​​XSY $5M Pre-Series A Round⚡️\n\n📑 About:\nXSY is a DeFi capital management platform focused on enhancing liquidity and capital efficiency.\n\n🤝 Investors:\nBorderless Capital (Lead), Protagonist (Lead), Blizzard Fund, Paper Ventures, Sonic Boom Ventures, and Chainview Capital\n\n👉 cryptorank.io/ico/xsy",
+      "amount": "5M",
+      "round": "Pre-Series A",
+      "investors": [
+        "Borderless Capital",
+        "Protagonist",
+        "Blizzard Fund",
+        "Paper Ventures",
+        "Sonic Boom Ventures",
+        "Chainview Capital"
+      ],
+      "about": "XSY is a DeFi capital management platform focused on enhancing liquidity and capital efficiency.",
+      "links": [
+        "https://cryptorank.io/ico/xsy"
+      ]
+    },
+    {
+      "company": "0x",
+      "type": "acquisition",
+      "date": "2025-05-15T16:02:33.000Z",
+      "rawText": "​​0x has acquired Flood ⚡️\n\n📑 About:\nFlood is a decentralized exchange aggregator.\n\n🤝 Acquired by:\n0x is a protocol that facilitates low friction peer-to-peer exchange of ERC20 tokens on the Ethereum blockchain.\n\n👉 cryptorank.io/ico/flood",
+      "acquirer": "0x",
+      "amount": "Undisclosed",
+      "about": "0x is a protocol that facilitates low friction peer-to-peer exchange of ERC20 tokens on the Ethereum blockchain.",
+      "links": [
+        "https://cryptorank.io/ico/flood"
+      ]
+    },
+    {
+      "company": "Hedra",
+      "type": "investment",
+      "date": "2025-05-15T15:44:50.000Z",
+      "rawText": "​​Hedra $32M Series A Round⚡️\n\n📑 About:\nHedra is an AI-powered content creation platform.\n\n🤝 Investors:\nAndreessen Horowitz (a16z) (Lead), a16z speedrun, Index Ventures, and Abstract Ventures\n\n🏷 Valuation: $200M\n\n👉 cryptorank.io/ico/hedra",
+      "amount": "32M",
+      "round": "Series A",
+      "investors": [
+        "Andreessen Horowitz (a16z)",
+        "a16z speedrun",
+        "Index Ventures",
+        "Abstract Ventures"
+      ],
+      "about": "Hedra is an AI-powered content creation platform.",
+      "valuation": "200M",
+      "links": [
+        "https://cryptorank.io/ico/hedra"
+      ]
+    },
+    {
+      "company": "UXLINK",
+      "type": "investment",
+      "date": "2025-05-15T14:06:51.000Z",
+      "rawText": "​​UXLINK Strategic Round⚡️\n\n📑 About:\nUXLINK is a Web3 social platform designed for broad adoption, offering social asset creation and cryptocurrency trading.\n\n🤝 Investor:\nAnimoca Brands\n\n👉 cryptorank.io/ico/uxlink",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "Animoca Brands"
+      ],
+      "about": "UXLINK is a Web3 social platform designed for broad adoption, offering social asset creation and cryptocurrency trading.",
+      "links": [
+        "https://cryptorank.io/ico/uxlink"
+      ]
+    },
+    {
+      "company": "Squads",
+      "type": "investment",
+      "date": "2025-05-14T15:03:46.000Z",
+      "rawText": "​​Squads Strategic Round⚡️\n\n📑 About: Squads enables management of developer and treasury assets for on-chain organizations.\n\n🤝 Investor: Haun Ventures\n\n👉 https://cryptorank.io/ico/squads",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "Haun Ventures"
+      ],
+      "about": "Squads enables management of developer and treasury assets for on-chain organizations.",
+      "links": [
+        "https://cryptorank.io/ico/squads"
+      ]
+    },
+    {
+      "company": "KYD Labs",
+      "type": "investment",
+      "date": "2025-05-14T14:49:54.000Z",
+      "rawText": "​​KYD Labs $7M Seed Round⚡️\n\n📑 About: KYDLabs building a fully integrated commerce layer designed for live events. \n\n🤝 Investors: a16z CSX (Lead), Techstars, Finality Capital Partners, Ambush Capital, and others.\n\n👉 https://cryptorank.io/ico/kyd-labs",
+      "amount": "7M",
+      "round": "Seed",
+      "investors": [
+        "a16z CSX",
+        "Techstars",
+        "Finality Capital Partners",
+        "Ambush Capital"
+      ],
+      "about": "KYDLabs building a fully integrated commerce layer designed for live events.",
+      "links": [
+        "https://cryptorank.io/ico/kyd-labs"
+      ]
+    },
+    {
+      "company": "Headquarters",
+      "type": "acquisition",
+      "date": "2025-05-14T07:47:09.000Z",
+      "rawText": "​​Gnosis has acquired Headquarters ⚡️\n\n📑 About: Headquarters is the Finance Dashboard for Web3 teams.\n\n🤝 Acquired by: Gnosis builds decentralized infrastructure for the Ethereum ecosystem\n\n👉 https://cryptorank.io/ico/headquarters",
+      "acquirer": "Gnosis",
+      "amount": "Undisclosed",
+      "about": "Headquarters is the Finance Dashboard for Web3 teams.",
+      "links": [
+        "https://cryptorank.io/ico/headquarters"
+      ]
+    },
+    {
+      "company": "Perpl",
+      "type": "investment",
+      "date": "2025-05-13T14:03:43.000Z",
+      "rawText": "​​Perpl $9.25M Funding Round⚡️\n\n📑 About: Perpl is a decentralized exchange for perpetual futures trading. \n\n🤝 Investors: DragonFly Capital (Lead), Ergonia (Lead), HashKey Capital, CMS Holdings, Mirana Ventures, Brevan Howard Digital, and others.\n\n👉 https://cryptorank.io/ico/perpl",
+      "amount": "9.25M",
+      "round": "Funding",
+      "investors": [
+        "DragonFly Capital",
+        "Ergonia",
+        "HashKey Capital",
+        "CMS Holdings",
+        "Mirana Ventures",
+        "Brevan Howard Digital",
+        "others"
+      ],
+      "about": "Perpl is a decentralized exchange for perpetual futures trading.",
+      "links": [
+        "https://cryptorank.io/ico/perpl"
+      ]
+    },
+    {
+      "company": "SpaceComputer",
+      "type": "investment",
+      "date": "2025-05-13T13:43:51.000Z",
+      "rawText": "​​SpaceComputer Pre-Seed Round⚡️\n\n📑 About: SpaceComputer is a project focused on building decentralized computing infrastructure beyond Earth's surface. \n\n🤝 Investors: Primitive Ventures (Lead), Nascent, Symbolic Capital, tangent, Public Works, and others.\n\n👉 https://cryptorank.io/ico/spacecomput",
+      "amount": "Undisclosed",
+      "round": "Pre-Seed",
+      "investors": [
+        "Primitive Ventures",
+        "Nascent",
+        "Symbolic Capital",
+        "tangent",
+        "Public Works",
+        "others"
+      ],
+      "about": "SpaceComputer is a project focused on building decentralized computing infrastructure beyond Earth's surface.",
+      "links": [
+        "https://cryptorank.io/ico/spacecomput"
+      ]
+    },
+    {
+      "company": "Anchorage Digital",
+      "type": "acquisition",
+      "date": "2025-05-13T08:50:30.000Z",
+      "rawText": "​​Anchorage Digital has acquired Mountain Protocol USD ⚡️\n\n📑 About: The Mountain Protocol platform allows users to gather digital asset wallet addresses and wire details to fund their accounts.\n\n🤝 Acquired by: Anchorage Digital \n\n👉 https://cryptorank.io/ico/mountain-protocol",
+      "acquirer": "Anchorage Digital",
+      "amount": "Undisclosed",
+      "about": "The Mountain Protocol platform allows users to gather digital asset wallet addresses and wire details to fund their accounts.",
+      "links": [
+        "https://cryptorank.io/ico/mountain-protocol"
+      ]
+    },
+    {
+      "company": "Nirvana Labs",
+      "type": "investment",
+      "date": "2025-05-13T08:10:09.000Z",
+      "rawText": "​​Nirvana Labs $6M Extended Seed Round⚡️\n\n📑 About: Nirvana Labs is a web3 optimized cloud that is built to handle the most demanding web3 workloads. \n\n🤝 Investors: Jump Crypto (Lead), Crucible Capital (Lead), Castle Island Ventures, Hash3, and RW3 Ventures\n\n👉 https://cryptorank.io/ico/nirvana-lab",
+      "amount": "6M",
+      "round": "Seed",
+      "investors": [
+        "Jump Crypto",
+        "Crucible Capital",
+        "Castle Island Ventures",
+        "Hash3",
+        "RW3 Ventures"
+      ],
+      "about": "Nirvana Labs is a web3 optimized cloud that is built to handle the most demanding web3 workloads.",
+      "links": [
+        "https://cryptorank.io/ico/nirvana-lab"
+      ]
+    },
+    {
+      "company": "DoubleUp",
+      "type": "investment",
+      "date": "2025-05-12T18:13:43.000Z",
+      "rawText": "​​DoubleUp $4M Seed Round⚡️\n\n📑 About: DoubleUp is a GameFi platform built on the Sui blockchain.\n\n🤝 Investors: Karatage (Lead), Mysten Labs, Selini Capital, Comma3 Ventures, Auros, and others.\n\n🏷 Valuation: $40M\n\n👉 https://cryptorank.io/ico/doubleup",
+      "amount": "4M",
+      "round": "Seed",
+      "investors": [
+        "Karatage",
+        "Mysten Labs",
+        "Selini Capital",
+        "Comma3 Ventures",
+        "Auros"
+      ],
+      "about": "DoubleUp is a GameFi platform built on the Sui blockchain.",
+      "valuation": "40M",
+      "links": [
+        "https://cryptorank.io/ico/doubleup"
+      ]
+    },
+    {
+      "company": "Redacted",
+      "type": "investment",
+      "date": "2025-05-12T10:41:27.000Z",
+      "rawText": "​​Redacted Funding Round⚡️\n\n📑 About: Redacted is developing a comprehensive platform that integrates blockchain and AI to enable users to play, trade, and watch content.\n\n🤝 Investor: Castrum Capital\n\n👉 https://cryptorank.io/ico/redacted-coin",
+      "amount": "Undisclosed",
+      "round": "Funding",
+      "investors": [
+        "Castrum Capital"
+      ],
+      "about": "Redacted is developing a comprehensive platform that integrates blockchain and AI to enable users to play, trade, and watch content.",
+      "links": [
+        "https://cryptorank.io/ico/redacted-coin"
+      ]
+    },
+    {
+      "company": "Turtle.Club",
+      "type": "investment",
+      "date": "2025-05-12T10:16:10.000Z",
+      "rawText": "​​Turtle.Club $6.2M Seed Round⚡️\n\n📑 About: Turtle.Club is a protocol that tracks liquidity providers’ (LPs) on-chain activities like providing liquidity and swapping across partner protocols.\n\n🤝 Investors: THEIA (Lead), ConsenSys, Susquehanna International Group, Chorus One, Laser Digital, Selini ",
+      "amount": "6.2M",
+      "round": "Seed",
+      "investors": [
+        "THEIA",
+        "ConsenSys",
+        "Susquehanna International Group",
+        "Chorus One",
+        "Laser Digital",
+        "Selini"
+      ],
+      "about": "Turtle.Club is a protocol that tracks liquidity providers’ (LPs) on-chain activities like providing liquidity and swapping across partner protocols."
+    },
+    {
+      "company": [
+        "BVNK",
+        "Doppel",
+        "Sentora",
+        "T-Rex",
+        "Sonic",
+        "DogeOS",
+        "GoQuant",
+        "Xweave"
+      ],
+      "type": "roundup",
+      "date": "2025-05-10T09:10:52.000Z",
+      "rawText": "​​Best Rounds Of This Week\n\nThis week, BVNK’s stablecoin infrastructure secured an investment from Visa, and Coinbase acquired Deribit for $2.9B. Other top rounds:\n\nDoppel - $35M\nSentora - $25M\nT-Rex - $17M\nSonic - $10M\nDogeOS - $6.9M\nGoQuant - $4M\nXweave - $3M\n\n👉 Explore more rounds",
+      "amount": [
+        null,
+        "35M",
+        "25M",
+        "17M",
+        "10M",
+        "6.9M",
+        "4M",
+        "3M"
+      ],
+      "acquisitionsInRoundup": [
+        {
+          "company": "Deribit",
+          "acquirer": "Coinbase",
+          "amount": "2.9B"
+        }
+      ],
+      "isPartOfRoundup": true
+    },
+    {
+      "company": "T-Rex",
+      "type": "investment",
+      "date": "2025-05-09T12:16:46.000Z",
+      "rawText": "​​T-Rex $17M Funding Round⚡️\n\n📑 About:\nT-Rex is a blockchain enhancing Web3 engagement through seamless Web2 integration. \n\n🤝 Investors:\nFramework Ventures, Hypersphere Ventures, SNZ Holding, ArkStream Capital, Arche Fund, North Island Ventures, and others.\n\n👉 cryptorank.io/ico/t-rex",
+      "amount": "17M",
+      "round": "Funding",
+      "investors": [
+        "Framework Ventures",
+        "Hypersphere Ventures",
+        "SNZ Holding",
+        "ArkStream Capital",
+        "Arche Fund",
+        "North Island Ventures"
+      ],
+      "about": "T-Rex is a blockchain enhancing Web3 engagement through seamless Web2 integration.",
+      "links": [
+        "https://cryptorank.io/ico/t-rex"
+      ]
+    },
+    {
+      "company": "Securitize",
+      "type": "investment",
+      "date": "2025-05-08T16:22:32.000Z",
+      "rawText": "​​Securitize Strategic Round⚡️\n\n📑 About:\nSecuritize tokenizes real-world assets, enabling compliant digital securities trading.\n\n🤝 Investor:\nJump Crypto (Lead)\n\n👉 cryptorank.io/ico/securitize",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "Jump Crypto"
+      ],
+      "about": "Securitize tokenizes real-world assets, enabling compliant digital securities trading.",
+      "links": [
+        "https://cryptorank.io/ico/securitize"
+      ]
+    },
+    {
+      "company": "Sonic",
+      "type": "investment",
+      "date": "2025-05-08T14:56:08.000Z",
+      "rawText": "​​Sonic $10M Strategic Round⚡️\n\n📑 About:\nSonic is an Ethereum Virtual Machine (EVM) layer-1 blockchain.\n\n🤝 Investor:\nGalaxy (Lead)\n\n👉 cryptorank.io/ico/sonic",
+      "amount": "10M",
+      "round": "Strategic",
+      "investors": [
+        "Galaxy"
+      ],
+      "about": "Sonic is an Ethereum Virtual Machine (EVM) layer-1 blockchain.",
+      "links": [
+        "https://cryptorank.io/ico/sonic"
+      ]
+    },
+    {
+      "company": "GoQuant",
+      "type": "investment",
+      "date": "2025-05-08T14:24:12.000Z",
+      "rawText": "​​GoQuant $4M Seed Round⚡️\n\n📑 About:\nGoQuant is a digital asset trading infrastructure with high-performance market data, trade execution, and portfolio management systems. \n\n🤝 Investors:\nGSR (Lead), Tyr Capital, Concordium, Capital Union Bank, FRNT Financial, Lombard Odier, and Copper.co\n\n👉 cryp",
+      "amount": "4M",
+      "round": "Seed",
+      "investors": [
+        "GSR",
+        "Tyr Capital",
+        "Concordium",
+        "Capital Union Bank",
+        "FRNT Financial",
+        "Lombard Odier",
+        "Copper.co"
+      ],
+      "about": "GoQuant is a digital asset trading infrastructure with high-performance market data, trade execution, and portfolio management systems."
+    },
+    {
+      "company": "Deribit",
+      "type": "acquisition",
+      "date": "2025-05-08T13:12:09.000Z",
+      "rawText": "​​Coinbase has acquired Deribit for $2.9B ⚡️\n\n📑 About: Deribit is a top crypto exchange for Bitcoin and Ethereum options and futures trading. \n\n🤝 Acquired by: Coinbase Ventures forms the investment arm of the Coinbase project.\n\n👉 https://cryptorank.io/ico/deribit",
+      "acquirer": "Coinbase",
+      "amount": "2.9B",
+      "about": "Deribit is a top crypto exchange for Bitcoin and Ethereum options and futures trading.",
+      "links": [
+        "https://cryptorank.io/ico/deribit"
+      ]
+    },
+    {
+      "company": "CodeAnt AI",
+      "type": "investment",
+      "date": "2025-05-07T15:47:09.000Z",
+      "rawText": "​​CodeAnt AI $2M Seed Round⚡️\n\n📑 About: CodeAnt AI is a platform that automates code reviews, cutting bugs and review time by over 50%. \n\n🤝 Investors: Y Combinator (Lead), Uncorrelated Ventures (Lead), VitalStage Ventures (Lead), Entrepreneur First, DeVc, and Transpose Platform. \n\n👉 https://crypt",
+      "amount": "2M",
+      "round": "Seed",
+      "investors": [
+        "Y Combinator",
+        "Uncorrelated Ventures",
+        "VitalStage Ventures",
+        "Entrepreneur First",
+        "DeVc",
+        "Transpose Platform"
+      ],
+      "about": "CodeAnt AI is a platform that automates code reviews, cutting bugs and review time by over 50%.",
+      "links": [
+        "https://crypt"
+      ]
+    },
+    {
+      "company": "Xweave",
+      "type": "investment",
+      "date": "2025-05-07T14:44:39.000Z",
+      "rawText": "​​Xweave $3M Seed Round⚡️\n\n📑 About: Xweave enables real-time, compliant cross-border payments using blockchain technology. \n\n🤝 Investors: Jungle Ventures (Lead), Digital Currency Group (DCG), Fabric Ventures, White Star Capital, Lightshift Capital, and others. \n\n👉 https://cryptorank.io/ico/xweave",
+      "amount": "3M",
+      "round": "Seed",
+      "investors": [
+        "Jungle Ventures",
+        "Digital Currency Group (DCG)",
+        "Fabric Ventures",
+        "White Star Capital",
+        "Lightshift Capital"
+      ],
+      "about": "Xweave enables real-time, compliant cross-border payments using blockchain technology.",
+      "links": [
+        "https://cryptorank.io/ico/xweave"
+      ]
+    },
+    {
+      "company": "Alt DRX",
+      "type": "investment",
+      "date": "2025-05-07T13:50:13.000Z",
+      "rawText": "​​Alt DRX $2.7M Pre-Series A Round⚡️\n\n📑 About: Alt DRX is a fintech platform based on blockchain enables fractional real estate investment. \n\n🤝 Investors: Brand Capital, Qatar Development Bank, WeFounderCircle, Hindustan Media Ventures, nX Capital, ZEE, and others.\n\n👉 https://cryptorank.io/ico/al",
+      "amount": "2.7M",
+      "round": "Pre-Series A",
+      "investors": [
+        "Brand Capital",
+        "Qatar Development Bank",
+        "WeFounderCircle",
+        "Hindustan Media Ventures",
+        "nX Capital",
+        "ZEE",
+        "others"
+      ],
+      "about": "Alt DRX is a fintech platform based on blockchain enables fractional real estate investment.",
+      "links": [
+        "https://cryptorank.io/ico/al"
+      ]
+    },
+    {
+      "company": "BVNK",
+      "type": "investment",
+      "date": "2025-05-07T13:42:46.000Z",
+      "rawText": "​​BVNK Strategic Round⚡️\n\n📑 About: BVNK offers banking services and payments for crypto-native businesses. \n\n🤝 Investor: Visa\n\n👉 https://cryptorank.io/ico/bvnk",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "Visa"
+      ],
+      "about": "BVNK offers banking services and payments for crypto-native businesses.",
+      "links": [
+        "https://cryptorank.io/ico/bvnk"
+      ]
+    },
+    {
+      "company": "Sats Terminal",
+      "type": "investment",
+      "date": "2025-05-07T11:50:11.000Z",
+      "rawText": "​​Coinbase Ventures backed 10 rounds in April\n\nCoinbase Ventures was the most active fund in April, participating in 10 funding rounds.  \n\nThe fund led the pre-seed round for Sats Terminal, and other notable investments include Blackbird, Symbiotic, and Codex.\n\nMore rounds 👉 cryptorank.io/funds/coi",
+      "amount": "Undisclosed",
+      "round": "Pre-Seed",
+      "investors": [
+        "Coinbase Ventures"
+      ],
+      "links": [
+        "https://cryptorank.io/funds/coi"
+      ]
+    },
+    {
+      "company": "AppLayer",
+      "type": "investment",
+      "date": "2025-05-07T10:16:40.000Z",
+      "rawText": "​​AppLayer Funding Round⚡️\n\n📑 About: AppLayer network is a modular EVM layer for cross-chain applications. \n\n🤝 Investor: Arcanum Ventures\n\n👉 https://cryptorank.io/ico/app-layer",
+      "amount": "Undisclosed",
+      "round": "Funding",
+      "investors": [
+        "Arcanum Ventures"
+      ],
+      "about": "AppLayer network is a modular EVM layer for cross-chain applications.",
+      "links": [
+        "https://cryptorank.io/ico/app-layer"
+      ]
+    },
+    {
+      "company": "Litheum",
+      "type": "investment",
+      "date": "2025-05-06T15:30:24.000Z",
+      "rawText": "​​Litheum $750K Strategic Round⚡️\n\n📑 About: Litheum is a L1 blokchain enables scalable microtransactions via Proof of Performance consensys. \n\n🤝 Investors: Amber Group (Lead), and Alphemy Capital (Lead)\n\n👉 https://cryptorank.io/ico/litheum",
+      "amount": "750K",
+      "round": "Strategic",
+      "investors": [
+        "Amber Group",
+        "Alphemy Capital"
+      ],
+      "about": "Litheum is a L1 blokchain enables scalable microtransactions via Proof of Performance consensys.",
+      "links": [
+        "https://cryptorank.io/ico/litheum"
+      ]
+    },
+    {
+      "company": "Sentora",
+      "type": "investment",
+      "date": "2025-05-06T14:11:03.000Z",
+      "rawText": "​​Sentora $25M Undisclosed Round⚡️\n\n📑 About: Sentora is a compliant DeFi platform for investors looking for yield, liquidity and risk management. \n\n🤝 Investors: New Form Capital (Lead), Tribe Capital, Ripple, UDHC, Curved Ventures, and Bankai Ventures\n\n👉 https://cryptorank.io/ico/sentora",
+      "amount": "25M",
+      "round": "Undisclosed Round",
+      "investors": [
+        "New Form Capital",
+        "Tribe Capital",
+        "Ripple",
+        "UDHC",
+        "Curved Ventures",
+        "Bankai Ventures"
+      ],
+      "about": "Sentora is a compliant DeFi platform for investors looking for yield, liquidity and risk management.",
+      "links": [
+        "https://cryptorank.io/ico/sentora"
+      ]
+    },
+    {
+      "company": "DogeOS",
+      "type": "investment",
+      "date": "2025-05-06T14:05:42.000Z",
+      "rawText": "​​DogeOS $6.9M Undisclosed Round⚡️\n\n📑 About: DogeOS is an application development platform for the Dogecoin ecosystem. \n\n🤝 Investor: Polychain Capital (Lead)\n\n👉 https://cryptorank.io/ico/dogeos",
+      "amount": "6.9M",
+      "round": "Undisclosed Round",
+      "investors": [
+        "Polychain Capital"
+      ],
+      "about": "DogeOS is an application development platform for the Dogecoin ecosystem.",
+      "links": [
+        "https://cryptorank.io/ico/dogeos"
+      ]
+    },
+    {
+      "company": "Fuze",
+      "type": "investment",
+      "date": "2025-05-06T10:03:07.000Z",
+      "rawText": "​​Fuze $12.2M Series A Round⚡️\n\n📑 About: Fuze is a blockchain infrastructure platform, enabling businesses to create embedded crypto experiences for customers. \n\n🤝 Investors: Galaxy (Lead), e& capital (Lead), and Further Ventures\n\n👉 https://cryptorank.io/ico/fuze",
+      "amount": "12.2M",
+      "round": "Series A",
+      "investors": [
+        "Galaxy",
+        "e& capital",
+        "Further Ventures"
+      ],
+      "about": "Fuze is a blockchain infrastructure platform, enabling businesses to create embedded crypto experiences for customers.",
+      "links": [
+        "https://cryptorank.io/ico/fuze"
+      ]
+    },
+    {
+      "company": "Tea-Fi",
+      "type": "investment",
+      "date": "2025-05-05T15:59:33.000Z",
+      "rawText": "​​Tea-Fi Funding Round⚡️\n\n📑 About:\nTea-Fi is a platform that integrates tools for yield enhancement. \n\n🤝 Investor:\nCastrum Capital\n\n👉 cryptorank.io/ico/tea-fi",
+      "amount": "Undisclosed",
+      "round": "Funding",
+      "investors": [
+        "Castrum Capital"
+      ],
+      "about": "Tea-Fi is a platform that integrates tools for yield enhancement.",
+      "links": [
+        "https://cryptorank.io/ico/tea-fi"
+      ]
+    },
+    {
+      "company": "Doppel",
+      "type": "investment",
+      "date": "2025-05-05T12:00:47.000Z",
+      "rawText": "​​Doppel $35M Series B Round⚡️\n\n📑 About:\nDoppel is a platform using AI to detect and dismantle social engineering threats across digital channels. \n\n🤝 Investors:\nBessemer Venture Partners (Lead), Andreessen Horowitz (a16z), South Park Commons, 9Yards Capital, Script Capital, Strategic Cyber Ventur",
+      "amount": "35M",
+      "round": "Series B",
+      "investors": [
+        "Bessemer Venture Partners",
+        "Andreessen Horowitz (a16z)",
+        "South Park Commons",
+        "9Yards Capital",
+        "Script Capital",
+        "Strategic Cyber Ventur"
+      ],
+      "about": "Doppel is a platform using AI to detect and dismantle social engineering threats across digital channels."
+    },
+    {
+      "company": "Auradine",
+      "type": "investment",
+      "date": "2025-05-03T16:54:16.000Z",
+      "rawText": "​​Best Funding Rounds Of April\n\nThere were 93 funding rounds in April, totaling $2.37B. Here are the main ones:\n\nAuradine - $153M\nLayerZero - $55M\nAlpaca - $52M\nNous - $50M\nBlackbird - $50M\nWunder - $50M\nMeanwhile - $40M\nSymbiotic - $29M\nMiden - $25M\nCamp - $25M\n\n👉 Explore other rounds",
+      "amount": "153M",
+      "round": "Funding",
+      "investors": []
+    },
+    {
+      "company": "aZen",
+      "type": "investment",
+      "date": "2025-05-02T13:24:11.000Z",
+      "rawText": "​​aZen $1.2M Seed Round⚡️\n\n📑 About: aZen is a decentralized infrastructure for ubiquitous computing. \n\n🤝 Investors: Waterdrip Capital (Lead), DWF Ventures, Mindfulness Capital, DePIN X, ODIG, Quantum Leap Labs, and others\n\n👉 cryptorank.io/ico/azen",
+      "amount": "1.2M",
+      "round": "Seed",
+      "investors": [
+        "Waterdrip Capital",
+        "DWF Ventures",
+        "Mindfulness Capital",
+        "DePIN X",
+        "ODIG",
+        "Quantum Leap Labs",
+        "others"
+      ],
+      "about": "aZen is a decentralized infrastructure for ubiquitous computing.",
+      "links": [
+        "https://cryptorank.io/ico/azen"
+      ]
+    },
+    {
+      "company": "Boop.fun",
+      "type": "investment",
+      "date": "2025-05-02T11:52:20.000Z",
+      "rawText": "​​Boop.fun Angel Round ⚡️\n\n📑 About:\nBoop.fun is a memepad for tokens on Solana, supported by Jupiter DEX.\n\n🤝 Investors:\nRaj Gokal, meow, Mert Mumtaz, Bartosz Lipinski, Lucas Bruder, Francesco Agosti, and others\n\n👉 cryptorank.io/ico/boop-fun",
+      "amount": "Undisclosed",
+      "round": "Angel Round",
+      "investors": [
+        "Raj Gokal",
+        "meow",
+        "Mert Mumtaz",
+        "Bartosz Lipinski",
+        "Lucas Bruder",
+        "Francesco Agosti"
+      ],
+      "about": "Boop.fun is a memepad for tokens on Solana, supported by Jupiter DEX.",
+      "links": [
+        "https://cryptorank.io/ico/boop-fun"
+      ]
+    },
+    {
+      "company": "dao5",
+      "type": "investment",
+      "date": "2025-05-01T15:02:55.000Z",
+      "rawText": "​​Dao5 Сloses $222M Second Fund ⚡️\n\n📑 About:\nDao5 is an experimental cryptocurrency investment fund that will convert into a decentralized autonomous organization. \n\n🤝 Details:\nThe blockchain-focused venture firm dao5 closed a $222M second fund after investments in Berachain and Bittensor. \n\n👉 cr",
+      "amount": "222M",
+      "round": "Funding",
+      "investors": [],
+      "about": "Dao5 is an experimental cryptocurrency investment fund that will convert into a decentralized autonomous organization."
+    },
+    {
+      "company": "Dinari",
+      "type": "investment",
+      "date": "2025-05-01T12:15:19.000Z",
+      "rawText": "​​Dinari $12.7M Series A Round⚡️\n\n📑 About: Dinari is a solution to buying US securities-backed stock tokens with stable coins. \n\n🤝 Investors: Hack VC (Lead), Blockchange Ventures (Lead), VanEck, Avalanche Foundation, and F-Prime Capital\n\n👉 https://cryptorank.io/ico/dinari",
+      "amount": "12.7M",
+      "round": "Series A",
+      "investors": [
+        "Hack VC",
+        "Blockchange Ventures",
+        "VanEck",
+        "Avalanche Foundation",
+        "F-Prime Capital"
+      ],
+      "about": "Dinari is a solution to buying US securities-backed stock tokens with stable coins.",
+      "links": [
+        "https://cryptorank.io/ico/dinari"
+      ]
+    },
+    {
+      "company": "ZAR",
+      "type": "investment",
+      "date": "2025-04-30T14:23:47.000Z",
+      "rawText": "​​ZAR $7M Seed Round⚡️\n\n📑 About: ZAR is a digital wallet that allows users to convert cash into digital dollars, bridging cash-based economies and Web3. \n\n🤝 Investors: DragonFly Capital (Lead), VanEck (Lead), Coinbase Ventures, a16z CSX, Solana Ventures, Mirana Ventures, and others.\n\n👉 https://cr",
+      "amount": "7M",
+      "round": "Seed",
+      "investors": [
+        "DragonFly Capital",
+        "VanEck",
+        "Coinbase Ventures",
+        "a16z CSX",
+        "Solana Ventures",
+        "Mirana Ventures"
+      ],
+      "about": "ZAR is a digital wallet that allows users to convert cash into digital dollars, bridging cash-based economies and Web3."
+    },
+    {
+      "company": "Gata",
+      "type": "investment",
+      "date": "2025-04-30T14:16:55.000Z",
+      "rawText": "​​Gata $4M Seed Round⚡️\n\n📑 About: Gata is a decentralized data network for validating high-quality datasets for AI training. \n\n🤝 Investors: YZi Labs (Prev. Binance Labs), MH Ventures, Formless Capital, Maelstrom, Dewhales, and Gate Ventures, and others. \n\n👉 https://cryptorank.io/ico/aggregata",
+      "amount": "4M",
+      "round": "Seed",
+      "investors": [
+        "YZi Labs (Prev. Binance Labs)",
+        "MH Ventures",
+        "Formless Capital",
+        "Maelstrom",
+        "Dewhales",
+        "Gate Ventures"
+      ],
+      "about": "Gata is a decentralized data network for validating high-quality datasets for AI training.",
+      "links": [
+        "https://cryptorank.io/ico/aggregata"
+      ]
+    },
+    {
+      "company": "Kaia",
+      "type": "investment",
+      "date": "2025-04-30T12:12:55.000Z",
+      "rawText": "​​Kaia Funding Round⚡️\n\n📑 About: Kaia is an EVM-based blockchain formed through the merger of Klaytn and Finschia. \n\n🤝 Investors: Blockchain Capital (Lead), 1kx (Lead), The Spartan Group, Galaxy, Mirana Ventures, and MEXC Ventures\n\n👉 https://cryptorank.io/ico/kaia-chain",
+      "amount": "Undisclosed",
+      "round": "Funding",
+      "investors": [
+        "Blockchain Capital",
+        "1kx",
+        "The Spartan Group",
+        "Galaxy",
+        "Mirana Ventures",
+        "MEXC Ventures"
+      ],
+      "about": "Kaia is an EVM-based blockchain formed through the merger of Klaytn and Finschia.",
+      "links": [
+        "https://cryptorank.io/ico/kaia-chain"
+      ]
+    },
+    {
+      "company": "Terminal 3",
+      "type": "investment",
+      "date": "2025-04-30T11:06:25.000Z",
+      "rawText": "​​Terminal 3 $8.0M Seed Round ⚡️\n\n📑 About:\nTerminal 3 is a startup building user data infrastructure for a decentralized future.\n\n🤝 Investors:\nCMCC Global (Titan Fund) (Lead), Illuminate Financial (Lead), Animoca Brands, 500 Global, ConsenSys Mesh, Hard Yaka, BlackPine, Cherubic Ventures, and othe",
+      "amount": "8.0M",
+      "round": "Seed",
+      "investors": [
+        "CMCC Global (Titan Fund)",
+        "Illuminate Financial",
+        "Animoca Brands",
+        "500 Global",
+        "ConsenSys Mesh",
+        "Hard Yaka",
+        "BlackPine",
+        "Cherubic Ventures",
+        "othe"
+      ],
+      "about": "Terminal 3 is a startup building user data infrastructure for a decentralized future."
+    },
+    {
+      "company": "ROVR Network",
+      "type": "investment",
+      "date": "2025-04-30T09:59:12.000Z",
+      "rawText": "​​ROVR $2.6M Seed Round ⚡️\n\n📑 About:\nROVR Network is a blockchain-native geospatial protocol that enables real-time 3D mapping.\n\n🤝 Investors:\nBorderless Capital (Lead), GEODNET (Lead), and IoTeX\n\n👉 cryptorank.io/ico/rovr",
+      "amount": "2.6M",
+      "round": "Seed",
+      "investors": [
+        "Borderless Capital",
+        "GEODNET",
+        "IoTeX"
+      ],
+      "about": "ROVR Network is a blockchain-native geospatial protocol that enables real-time 3D mapping.",
+      "links": [
+        "https://cryptorank.io/ico/rovr"
+      ]
+    },
+    {
+      "company": "Unto",
+      "type": "investment",
+      "date": "2025-04-29T16:16:10.000Z",
+      "rawText": "​​Unto $14.4M Funding Round⚡️\n\n📑 About:\nUnto is a high-performance Layer 1 blockchain built for massive scale and custom programmability.\n\n🤝 Investors:\nFramework Ventures (Lead) and Electric Capital (Lead).\n\n🏷 Valuation: $140M\n\n👉 cryptorank.io/ico/unto",
+      "amount": "14.4M",
+      "round": "Funding",
+      "investors": [
+        "Framework Ventures",
+        "Electric Capital"
+      ],
+      "about": "Unto is a high-performance Layer 1 blockchain built for massive scale and custom programmability.",
+      "valuation": "140M",
+      "links": [
+        "https://cryptorank.io/ico/unto"
+      ]
+    },
+    {
+      "company": "Camp Network",
+      "type": "investment",
+      "date": "2025-04-29T15:33:13.000Z",
+      "rawText": "​​Camp Network $25M Series A Round⚡️\n\n📑 About:\nCamp Network is a modular Layer 2 (L2) solution that harnesses off-chain data from Web2 social platforms to facilitate on-chain value creation.\n\n🤝 Investors:\nBlockchain Capital (Lead), 1kx (Lead), OKX Ventures, Lattice and Paper Ventures.\n\n🏷 Valuatio",
+      "amount": "25M",
+      "round": "Series A",
+      "investors": [
+        "Blockchain Capital",
+        "1kx",
+        "OKX Ventures",
+        "Lattice",
+        "Paper Ventures"
+      ],
+      "about": "Camp Network is a modular Layer 2 (L2) solution that harnesses off-chain data from Web2 social platforms to facilitate on-chain value creation."
+    },
+    {
+      "company": "Miden",
+      "type": "investment",
+      "date": "2025-04-29T13:27:54.000Z",
+      "rawText": "​​Miden $25M Seed Round⚡️\n\n📑 About:\nMiden is a ZK-rollup L2 blockchain built on top of Ethereum enabling private, scalable smart contracts. \n\n🤝 Investors:\nAndreessen Horowitz (a16z) (Lead), 1kx (Lead), Hack VC (Lead), P2 Ventures (Polygon Ventures), MH Ventures, Symbolic Capital, Finality Capital ",
+      "amount": "25M",
+      "round": "Seed",
+      "investors": [
+        "Andreessen Horowitz (a16z)",
+        "1kx",
+        "Hack VC",
+        "P2 Ventures (Polygon Ventures)",
+        "MH Ventures",
+        "Symbolic Capital",
+        "Finality Capital"
+      ],
+      "about": "Miden is a ZK-rollup L2 blockchain built on top of Ethereum enabling private, scalable smart contracts."
+    },
+    {
+      "company": "Ika",
+      "type": "investment",
+      "date": "2025-04-28T17:02:02.000Z",
+      "rawText": "​​Ika Raised Over $21M In Total Funding ⚡️\n\n📑 About:\nIka is the parallel MPC network, offering sub-second latency, scale and decentralization, and zero-trust security.\n\n🤝 Investors:\nDigital Currency Group (Lead), Node Capital (Lead), Sui Foundation, Collider Ventures, Lemniscap, Token Bay Capital,",
+      "amount": "21M",
+      "round": "Funding",
+      "investors": [
+        "Digital Currency Group",
+        "Node Capital",
+        "Sui Foundation",
+        "Collider Ventures",
+        "Lemniscap",
+        "Token Bay Capital"
+      ],
+      "about": "Ika is the parallel MPC network, offering sub-second latency, scale and decentralization, and zero-trust security."
+    },
+    {
+      "company": [
+        "Alpaca",
+        "Nous Research",
+        "Symbiotic",
+        "Theo",
+        "Analog",
+        "Arch Network",
+        "Tally"
+      ],
+      "type": "roundup",
+      "date": "2025-04-26T15:32:37.000Z",
+      "rawText": "​​Best Rounds Of This Week\n\nAlpaca - $52M\nNous Research - $50M\nSymbiotic - $29M\nTheo - $20M\nAnalog - $15M\nArch Network - $13M\nTally - $8M\n\n👉 Explore more rounds",
+      "amount": [
+        "52M",
+        "50M",
+        "29M",
+        "20M",
+        "15M",
+        "13M",
+        "8M"
+      ],
+      "isPartOfRoundup": true
+    },
+    {
+      "company": "Nous Research",
+      "type": "investment",
+      "date": "2025-04-25T12:25:53.000Z",
+      "rawText": "​​Nous Research $50M Series A Round⚡️\n\n📑 About:\nNous Research is an AI company specializing in the development of open-source, human-centric language models and simulators.\n\n🤝 Investor:\nParadigm.\n\n🏷 Valuation: $1B\n\n👉 cryptorank.io/ico/nous-research",
+      "amount": "50M",
+      "round": "Series A",
+      "investors": [
+        "Paradigm"
+      ],
+      "about": "Nous Research is an AI company specializing in the development of open-source, human-centric language models and simulators.",
+      "valuation": "1B",
+      "links": [
+        "https://cryptorank.io/ico/nous-research"
+      ]
+    },
+    {
+      "company": "MagicBlock",
+      "type": "investment",
+      "date": "2025-04-25T09:08:13.000Z",
+      "rawText": "​​MagicBlock $7.5M Seed Round⚡️\n\n📑 About:\nMagicBlock is a network built on top of Solana for developing open, decentralized games and consumer applications.\n\n🤝 Investors:\nFaction (Lead), Delphi Ventures, Robot Ventures, Maven 11 Capital, Mechanism Capital, Pivot Global, and others.\n\n👉 cryptorank.",
+      "amount": "7.5M",
+      "round": "Seed",
+      "investors": [
+        "Faction",
+        "Delphi Ventures",
+        "Robot Ventures",
+        "Maven 11 Capital",
+        "Mechanism Capital",
+        "Pivot Global"
+      ],
+      "about": "MagicBlock is a network built on top of Solana for developing open, decentralized games and consumer applications.",
+      "links": []
+    },
+    {
+      "company": "Inco Network",
+      "type": "investment",
+      "date": "2025-04-25T08:38:45.000Z",
+      "rawText": "​​Inco Network $5M Strategic Round⚡️\n\n📑 About:\nInco is a modular, interoperable Layer 1 blockchain network focused on bringing confidentiality to decentralized applications.\n\n🤝 Investors:\na16z CSX (Lead), Coinbase Ventures, 1kx, OrangeDAO, South Park Commons, and Script Capital.\n\n👉 cryptorank.io/",
+      "amount": "5M",
+      "round": "Strategic",
+      "investors": [
+        "a16z CSX",
+        "Coinbase Ventures",
+        "1kx",
+        "OrangeDAO",
+        "South Park Commons",
+        "Script Capital"
+      ],
+      "about": "Inco is a modular, interoperable Layer 1 blockchain network focused on bringing confidentiality to decentralized applications.",
+      "links": [
+        "https://cryptorank.io/"
+      ]
+    },
+    {
+      "company": "Catalysis",
+      "type": "investment",
+      "date": "2025-04-25T08:15:12.000Z",
+      "rawText": "​​Catalysis $1.25M Pre-Seed Round ⚡️\n\n📑 About:\nCatalysis focuses on creating a security abstraction layer for decentralized networks.\n\n🤝 Investors:\nHashed Emergent (Lead), Presto Labs, Funfair Ventures, SpaceshipDAO, Crypto Times, Cosmostation, and others\n\n👉 cryptorank.io/ico/catalysis",
+      "amount": "1.25M",
+      "round": "Pre-Seed",
+      "investors": [
+        "Hashed Emergent",
+        "Presto Labs",
+        "Funfair Ventures",
+        "SpaceshipDAO",
+        "Crypto Times",
+        "Cosmostation"
+      ],
+      "about": "Catalysis focuses on creating a security abstraction layer for decentralized networks.",
+      "links": [
+        "https://cryptorank.io/ico/catalysis"
+      ]
+    },
+    {
+      "company": "Theo",
+      "type": "investment",
+      "date": "2025-04-24T14:22:15.000Z",
+      "rawText": "​​Theo $20M Funding Round ⚡️\n\n📑 About:\nTheo is a framework to leverage positions.\n\n🤝 Investors:\nHack VC (Lead), Anthos Capital (Lead), Mirana Ventures, Amber Group, MEXC, Selini Capital, Manifold, Flowdesk, and others\n\n👉 cryptorank.io/ico/theonetwork",
+      "amount": "20M",
+      "round": "Funding",
+      "investors": [
+        "Hack VC",
+        "Anthos Capital",
+        "Mirana Ventures",
+        "Amber Group",
+        "MEXC",
+        "Selini Capital",
+        "Manifold",
+        "Flowdesk"
+      ],
+      "about": "Theo is a framework to leverage positions.",
+      "links": [
+        "https://cryptorank.io/ico/theonetwork"
+      ]
+    },
+    {
+      "company": "Alpaca",
+      "type": "investment",
+      "date": "2025-04-24T13:28:35.000Z",
+      "rawText": "​​Alpaca $52M Series C Round ⚡️\n\n📑 About:\nAlpaca is a developer-first brokerage platform.\n\n🤝 Investors:\nUnbound, Derayah Ventures, 850 Management, National Investments Company, and Portage Ventures\n\n👉 cryptorank.io/ico/alpaca-markets",
+      "amount": "52M",
+      "round": "Series C",
+      "investors": [
+        "Unbound",
+        "Derayah Ventures",
+        "850 Management",
+        "National Investments Company",
+        "Portage Ventures"
+      ],
+      "about": "Alpaca is a developer-first brokerage platform.",
+      "links": [
+        "https://cryptorank.io/ico/alpaca-markets"
+      ]
+    },
+    {
+      "company": "Securitize",
+      "type": "investment",
+      "date": "2025-04-24T12:37:09.000Z",
+      "rawText": "​​Securitize $400M Funding Round ⚡️\n\n📑 About:\nSecuritize is a digital asset securities firm that facilitates access.\n\n🤝 Investor:\nMantle\n\n👉 cryptorank.io/ico/securitize",
+      "amount": "400M",
+      "round": "Funding",
+      "investors": [
+        "Mantle"
+      ],
+      "about": "Securitize is a digital asset securities firm that facilitates access.",
+      "links": [
+        "https://cryptorank.io/ico/securitize"
+      ]
+    },
+    {
+      "company": "Symbiotic",
+      "type": "investment",
+      "date": "2025-04-23T13:33:46.000Z",
+      "rawText": "​​Symbiotic $29M Series A Round⚡️\n\n📑 About:\nSymbiotic is a generalized restaking system enabling decentralized networks to bootstrap fully sovereign ecosystems.\n\n🤝 Investors:\nPantera Capital (Lead), Coinbase Ventures, Sandeep Nailwal, Stani Kulechov, and others.\n\n👉 cryptorank.io/ico/symbiotic",
+      "amount": "29M",
+      "round": "Series A",
+      "investors": [
+        "Pantera Capital",
+        "Coinbase Ventures",
+        "Sandeep Nailwal",
+        "Stani Kulechov"
+      ],
+      "about": "Symbiotic is a generalized restaking system enabling decentralized networks to bootstrap fully sovereign ecosystems.",
+      "links": [
+        "https://cryptorank.io/ico/symbiotic"
+      ]
+    },
+    {
+      "company": "Mask Network",
+      "type": "investment",
+      "date": "2025-04-23T09:52:36.000Z",
+      "rawText": "​​Mask Network $5M Strategic Round⚡️\n\n📑 About:\nMask Network is a decentralized portal that allows users to seamlessly send encrypted messages.\n\n🤝 Investor:\nDWF Labs.\n\n👉 cryptorank.io/ico/mask-network",
+      "amount": "5M",
+      "round": "Strategic",
+      "investors": [
+        "DWF Labs"
+      ],
+      "about": "Mask Network is a decentralized portal that allows users to seamlessly send encrypted messages.",
+      "links": [
+        "https://cryptorank.io/ico/mask-network"
+      ]
+    },
+    {
+      "company": "Inflow",
+      "type": "investment",
+      "date": "2025-04-22T22:36:18.000Z",
+      "rawText": "​​Inflow $1.1M Pre-Seed Round ⚡️\n\n📑 About:\nInflow is a payment service provider that enables businesses to accept payments globally.\n\n🤝 Investors:\nAlliance DAO, Gnosis, Plug and Play, Stake Capital Group, Rockstart, Nicolas Bacca, Stephanie Lacroix and Matthieu Guigues. \n\n👉 cryptorank.io/ico/infl",
+      "amount": "1.1M",
+      "round": "Pre-Seed",
+      "investors": [
+        "Alliance DAO",
+        "Gnosis",
+        "Plug and Play",
+        "Stake Capital Group",
+        "Rockstart",
+        "Nicolas Bacca",
+        "Stephanie Lacroix",
+        "Matthieu Guigues"
+      ],
+      "about": "Inflow is a payment service provider that enables businesses to accept payments globally.",
+      "links": [
+        "https://cryptorank.io/ico/infl"
+      ]
+    },
+    {
+      "company": "Analog",
+      "type": "investment",
+      "date": "2025-04-22T15:43:27.000Z",
+      "rawText": "​​Analog $15M Funding Round ⚡️\n\n📑 About:\nAnalog is a decentralized layer-0 platform designed for the validation and communication of event data.\n\n🤝 Investor:\nBolts Capital (Lead)\n\n👉 cryptorank.io/ico/analog",
+      "amount": "15M",
+      "round": "Funding",
+      "investors": [
+        "Bolts Capital"
+      ],
+      "about": "Analog is a decentralized layer-0 platform designed for the validation and communication of event data.",
+      "links": [
+        "https://cryptorank.io/ico/analog"
+      ]
+    },
+    {
+      "company": "Tally",
+      "type": "investment",
+      "date": "2025-04-22T15:02:31.000Z",
+      "rawText": "​​Tally $8M Series A Round ⚡️\n\n📑 About:\nTally powers L2s, protocols, treasuries and public goods.\n\n🤝 Investors:\nBlockchain Capital (Lead), AppWorks (Lead) and BitGo.\n\n👉 cryptorank.io/ico/tally",
+      "amount": "8M",
+      "round": "Series A",
+      "investors": [
+        "Blockchain Capital",
+        "AppWorks",
+        "BitGo"
+      ],
+      "about": "Tally powers L2s, protocols, treasuries and public goods.",
+      "links": [
+        "https://cryptorank.io/ico/tally"
+      ]
+    },
+    {
+      "company": "Arch Network",
+      "type": "investment",
+      "date": "2025-04-22T14:50:50.000Z",
+      "rawText": "​​Arch Network $13M Series A Round ⚡️\n\n📑 About:\nArch Network is a platform that introduces smart contract functionality directly into Bitcoin through a novel architecture.\n\n🤝 Investors:\nPantera Capital (Lead) and Multicoin Capital.\n\n🏷 Valuation: $200M\n\n👉 cryptorank.io/ico/arch-network",
+      "amount": "13M",
+      "round": "Series A",
+      "investors": [
+        "Pantera Capital",
+        "Multicoin Capital"
+      ],
+      "about": "Arch Network is a platform that introduces smart contract functionality directly into Bitcoin through a novel architecture.",
+      "valuation": "200M",
+      "links": [
+        "https://cryptorank.io/ico/arch-network"
+      ]
+    },
+    {
+      "company": "StakeStone",
+      "type": "investment",
+      "date": "2025-04-22T08:49:56.000Z",
+      "rawText": "​​StakeStone Funding Round ⚡️\n\n📑 About:\nStakeStone is a liquidity staking derivatives basket (LSDb) token backed by ETH staking yield.\n\n🤝 Investor:\nAnimoca Ventures\n\n👉 cryptorank.io/ico/stakestone",
+      "amount": "Undisclosed",
+      "round": "Funding",
+      "investors": [
+        "Animoca Ventures"
+      ],
+      "about": "StakeStone is a liquidity staking derivatives basket (LSDb) token backed by ETH staking yield.",
+      "links": [
+        "https://cryptorank.io/ico/stakestone"
+      ]
+    },
+    {
+      "company": "Upexi⚡️",
+      "type": "investment",
+      "date": "2025-04-22T08:33:51.000Z",
+      "rawText": "​​GSR Led $100M Investment in Upexi⚡️\n\n📑 About:\nUpexi Inc. is a company that acquires and operates Amazon and eCommerce businesses. \n\n🤝 Investors:\nGSR (Lead), Delphi Ventures, Big Brain Holdings, Borderless Capital, Anagram Crypto, Maelstrom, and others. \n\n👉 cryptorank.io/ico/upexi",
+      "amount": "100M",
+      "round": "Funding",
+      "investors": [
+        "GSR",
+        "Delphi Ventures",
+        "Big Brain Holdings",
+        "Borderless Capital",
+        "Anagram Crypto",
+        "Maelstrom",
+        "others"
+      ],
+      "about": "Upexi Inc. is a company that acquires and operates Amazon and eCommerce businesses.",
+      "links": [
+        "https://cryptorank.io/ico/upexi"
+      ]
+    },
+    {
+      "company": "Swapped",
+      "type": "acquisition",
+      "date": "2025-04-22T08:27:21.000Z",
+      "rawText": "​​Swapped has acquired Kado ⚡️\n\n📑 About:\nKado is the payments infrastructure built for Web3.\n\n🤝 Acquired by:\nSwapped offers a fast and simple way to buy cryptocurrencies.  \n\n👉 cryptorank.io/ico/kado",
+      "acquirer": "Swapped",
+      "amount": "Undisclosed",
+      "about": "Kado is the payments infrastructure built for Web3.",
+      "links": [
+        "https://cryptorank.io/ico/kado"
+      ]
+    },
+    {
+      "company": [
+        "Auradine",
+        "LayerZero",
+        "WLFI",
+        "ZND",
+        "Optimum",
+        "Resolv",
+        "ORO AI"
+      ],
+      "type": "roundup",
+      "date": "2025-04-19T09:55:43.000Z",
+      "rawText": "​​Top 7 notable rounds of this week\n\nAuradine - $153M\nLayerZero - $55M\nWLFI - $25M\nZND - $20M\nOptimum - $11M\nResolv - $10M\nORO AI - $6.0M \n\n👉 Explore more rounds",
+      "amount": [
+        "153M",
+        "55M",
+        "25M",
+        "20M",
+        "11M",
+        "10M",
+        "6.0M"
+      ],
+      "isPartOfRoundup": true
+    },
+    {
+      "company": "ZND",
+      "type": "investment",
+      "date": "2025-04-19T07:11:51.000Z",
+      "rawText": "​​ZND $20M Funding Round ⚡️\n\n📑 About:\nZND is a digital financial platform for managing, earning, trading and lending against crypto assets.\n\n🤝 Investor:\nRollman Management \n\n👉 cryptorank.io/ico/znd",
+      "amount": "20M",
+      "round": "Funding",
+      "investors": [
+        "Rollman Management"
+      ],
+      "about": "ZND is a digital financial platform for managing, earning, trading and lending against crypto assets.",
+      "links": [
+        "https://cryptorank.io/ico/znd"
+      ]
+    },
+    {
+      "company": "LayerZero",
+      "type": "investment",
+      "date": "2025-04-18T06:49:18.000Z",
+      "rawText": "​​A16z Invested $55M in LayerZero ⚡️\n\n📑 About:\nLayerZero is an omnichain interoperability protocol. \n\n🤝 Investor:\nAndreessen Horowitz (a16z)\n\n👉 cryptorank.io/ico/layerzero",
+      "amount": "55M",
+      "round": "Funding",
+      "investors": [
+        "Andreessen Horowitz (a16z)"
+      ],
+      "about": "LayerZero is an omnichain interoperability protocol.",
+      "links": [
+        "https://cryptorank.io/ico/layerzero"
+      ]
+    },
+    {
+      "company": "EdgeX Labs",
+      "type": "investment",
+      "date": "2025-04-17T11:37:12.000Z",
+      "rawText": "​​EdgeX Labs Strategic Round ⚡️\n\n📑 About:\nEdgeX Labs is a community-driven project integrating low-power edge computing with Web3 tech.\n\n🤝 Investor:\nRyze Labs\n\n👉 cryptorank.io/ico/edgex-labs",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "Ryze Labs"
+      ],
+      "about": "EdgeX Labs is a community-driven project integrating low-power edge computing with Web3 tech.",
+      "links": [
+        "https://cryptorank.io/ico/edgex-labs"
+      ]
+    },
+    {
+      "company": "Futureverse",
+      "type": "acquisition",
+      "date": "2025-04-17T09:43:29.000Z",
+      "rawText": "​​Futureverse has acquired Candy Digital ⚡️\n\n📑 About:\nCandy Digital is a digital collectibles company that designs and develops officially licensed, premium digital collectibles.\n\n🤝 Acquired by:\nFutureverse provides AI + metaverse technologies that enable open, scalable, interoperable apps, games ",
+      "acquirer": "Futureverse",
+      "amount": "Undisclosed",
+      "about": "Futureverse provides AI + metaverse technologies that enable open, scalable, interoperable apps, games"
+    },
+    {
+      "company": "Neutrl",
+      "type": "investment",
+      "date": "2025-04-16T17:58:26.000Z",
+      "rawText": "​​Neutrl $5M Seed Round ⚡️\n\n📑 About:\nNeutrl is a decentralized finance platform offering market-neutral crypto yields through synthetic dollars. \n\n🤝 Investors:\nAccomplice (Lead), STIX (Lead), Amber Group, Nascent, Figment Capital, SCB Limited, and others. \n\n👉 cryptorank.io/ico/neutrl",
+      "amount": "5M",
+      "round": "Seed",
+      "investors": [
+        "Accomplice",
+        "STIX",
+        "Amber Group",
+        "Nascent",
+        "Figment Capital",
+        "SCB Limited"
+      ],
+      "about": "Neutrl is a decentralized finance platform offering market-neutral crypto yields through synthetic dollars.",
+      "links": [
+        "https://cryptorank.io/ico/neutrl"
+      ]
+    },
+    {
+      "company": "ORO AI",
+      "type": "investment",
+      "date": "2025-04-16T15:01:46.000Z",
+      "rawText": "​​ORO AI $6M Seed Round ⚡️\n\n📑 About:\nORO is a decentralized intelligence platform unlocking private data for frontier AI.\n\n🤝 Investors:\nDelphi Ventures (Lead), a16z CSX (Lead), OrangeDAO, Near Foundation, Ocular VC, and 0G Labs. \n\n👉 cryptorank.io/ico/oro-ai",
+      "amount": "6M",
+      "round": "Seed",
+      "investors": [
+        "Delphi Ventures",
+        "a16z CSX",
+        "OrangeDAO",
+        "Near Foundation",
+        "Ocular VC",
+        "0G Labs"
+      ],
+      "about": "ORO is a decentralized intelligence platform unlocking private data for frontier AI.",
+      "links": [
+        "https://cryptorank.io/ico/oro-ai"
+      ]
+    },
+    {
+      "company": "Auradine",
+      "type": "investment",
+      "date": "2025-04-16T14:37:55.000Z",
+      "rawText": "​​Auradine $153M Series C Round ⚡️\n\n📑 About:\nAuradine is a pioneer in web infrastructure solutions including blockchain, privacy and AI. \n\n🤝 Investors:\nStepStone (Lead), Qualcomm, Mayfield, Premji Invest, Samsung Catalyst, and MARA. \n\n👉 cryptorank.io/ico/auradine",
+      "amount": "153M",
+      "round": "Series C",
+      "investors": [
+        "StepStone",
+        "Qualcomm",
+        "Mayfield",
+        "Premji Invest",
+        "Samsung Catalyst",
+        "MARA"
+      ],
+      "about": "Auradine is a pioneer in web infrastructure solutions including blockchain, privacy and AI.",
+      "links": [
+        "https://cryptorank.io/ico/auradine"
+      ]
+    },
+    {
+      "company": "Embr Labs",
+      "type": "investment",
+      "date": "2025-04-16T14:15:22.000Z",
+      "rawText": "​​Embr Labs $1.8M Pre-Seed Round ⚡️\n\n📑 About:\nEmbr is a crypto-based meme battle platform where users create, submit, and compete with meme tokens in a game-like environment. \n\n🤝 Investors:\nRobot Ventures (Lead), Lattice (Lead), TempleDAO, and others. \n\n👉 cryptorank.io/ico/embr-labs",
+      "amount": "1.8M",
+      "round": "Pre-Seed",
+      "investors": [
+        "Robot Ventures",
+        "Lattice",
+        "TempleDAO",
+        "others"
+      ],
+      "about": "Embr is a crypto-based meme battle platform where users create, submit, and compete with meme tokens in a game-like environment.",
+      "links": [
+        "https://cryptorank.io/ico/embr-labs"
+      ]
+    },
+    {
+      "company": "World Liberty Financial",
+      "type": "investment",
+      "date": "2025-04-16T13:53:34.000Z",
+      "rawText": "​​DWF Labs Announces $25M WLFI Token Purchase⚡️\n\n📑 About:\nWorld Liberty Financial is a DeFi platform launched by Donald Trump.\n\n🤝 Investor:\nDWF Labs\n\n👉 cryptorank.io/ico/wllfi",
+      "amount": "25M",
+      "round": "Token Sale",
+      "investors": [
+        "DWF Labs"
+      ],
+      "about": "World Liberty Financial is a DeFi platform launched by Donald Trump.",
+      "links": [
+        "https://cryptorank.io/ico/wllfi"
+      ]
+    },
+    {
+      "company": "Resolv",
+      "type": "investment",
+      "date": "2025-04-16T13:40:20.000Z",
+      "rawText": "​​Resolv $10M Seed Round ⚡️\n\n📑 About:\nResolv is a protocol maintaining USR, a stablecoin natively backed by ETH and pegged to US Dollar.\n\n🤝 Investors:\nMaven 11 Capital (Lead), cyber Fund (Lead), Coinbase Ventures, Robot Ventures, gumi Cryptos, Arrington XRP, Animoca Brands, SCB Limited, and others",
+      "amount": "10M",
+      "round": "Seed",
+      "investors": [
+        "Maven 11 Capital",
+        "cyber Fund",
+        "Coinbase Ventures",
+        "Robot Ventures",
+        "gumi Cryptos",
+        "Arrington XRP",
+        "Animoca Brands",
+        "SCB Limited"
+      ],
+      "about": "Resolv is a protocol maintaining USR, a stablecoin natively backed by ETH and pegged to US Dollar."
+    },
+    {
+      "company": "Glider",
+      "type": "investment",
+      "date": "2025-04-16T12:48:05.000Z",
+      "rawText": "​​Glider $4M Funding Round ⚡️\n\n📑 About:\nGlider is a decentralized platform for automated cryptocurrency portfolio management. \n\n🤝 Investors:\nAndreessen Horowitz (Lead), Coinbase Ventures, GSR, and Uniswap Labs Ventures. \n\n👉 cryptorank.io/ico/glider",
+      "amount": "4M",
+      "round": "Funding",
+      "investors": [
+        "Andreessen Horowitz",
+        "Coinbase Ventures",
+        "GSR",
+        "Uniswap Labs Ventures"
+      ],
+      "about": "Glider is a decentralized platform for automated cryptocurrency portfolio management.",
+      "links": [
+        "https://cryptorank.io/ico/glider"
+      ]
+    },
+    {
+      "company": "Optimum",
+      "type": "investment",
+      "date": "2025-04-15T15:15:57.000Z",
+      "rawText": "​​Optimum $11M Seed Round ⚡️\n\n📑 About:\nOptimum is a high-performance memory infrastructure for any blockchain.\n\n🤝Investors:\n1kx (Lead), The Spartan Group, Animoca Brands, GSR, CMS Holdings, CMT Digital, Robot Ventures, MH Ventures, Alchemy, Mapleblock Capital, SNZ Holding, Chorus One and others.\n\n",
+      "amount": "11M",
+      "round": "Seed",
+      "investors": [
+        "1kx",
+        "The Spartan Group",
+        "Animoca Brands",
+        "GSR",
+        "CMS Holdings",
+        "CMT Digital",
+        "Robot Ventures",
+        "MH Ventures",
+        "Alchemy",
+        "Mapleblock Capital",
+        "SNZ Holding",
+        "Chorus One"
+      ],
+      "about": "Optimum is a high-performance memory infrastructure for any blockchain."
+    }
+  ]
+}

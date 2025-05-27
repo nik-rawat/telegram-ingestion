@@ -5,7 +5,7 @@ node_modules/
 .env
 
 # Data and temporary files
-data/
+
 temp/
 
 # Telegram session files

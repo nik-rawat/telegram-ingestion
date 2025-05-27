@@ -1,0 +1,1250 @@
+{
+  "totalInvestments": 82,
+  "investmentsByType": {
+    "acquisition": 11,
+    "investment": 71,
+    "roundup": 0
+  },
+  "topInvestors": {
+    "Andreessen Horowitz (a16z crypto)": 7,
+    "1kx": 6,
+    "Coinbase Ventures": 6,
+    "Selini Capital": 5,
+    "Borderless Capital": 4,
+    "Mirana Ventures": 4,
+    "CMS Holdings": 3,
+    "Maelstrom": 3,
+    "Stake Capital": 3,
+    "Animoca Brands": 3,
+    "a16z Crypto Startup Accelerator (CSX)": 3,
+    "Finality Capital": 3,
+    "SNZ Holding": 3,
+    "GSR Markets LTD": 3,
+    "White Star Capital": 3,
+    "Galaxy Digital": 3,
+    "Amber Group": 3,
+    "Hack VC": 3,
+    "MH Ventures": 3,
+    "Blockchain Capital": 3
+  },
+  "roundDistribution": {
+    "Funding": 15,
+    "Series A": 12,
+    "Seed": 20,
+    "Series B": 2,
+    "Acquisition": 11,
+    "Public sale": 2,
+    "Strategic": 6,
+    "Pre-Seed": 1,
+    "Pre-seed": 5,
+    "Private Sale": 2,
+    "Angel Round": 1,
+    "Series C": 2,
+    "Token Round": 1,
+    "Token Sale": 2
+  },
+  "investments": [
+    {
+      "company": "Roxom",
+      "type": "investment",
+      "date": "2025-05-22T15:25:25.000Z",
+      "rawText": "​​Bitcoin-based trading platform Roxom raised $17.90M in a funding round from Draper Associates, Borderless Capital, Kingsway Capital, Ego Death Capital.",
+      "amount": "17.90M",
+      "round": "Funding",
+      "investors": [
+        "Draper Associates",
+        "Borderless Capital",
+        "Kingsway Capital",
+        "Ego Death Capital"
+      ]
+    },
+    {
+      "company": "VOYA Games (Craft World)",
+      "type": "investment",
+      "date": "2025-05-21T18:51:09.000Z",
+      "rawText": "​​Berlin-based Web3 gaming studio VOYA Games (Craft World) raised $5M in a funding round led by 1kx, Makers Fund, with participation from RockawayX, Sebastien Borget, Jeffrey Zirlin.",
+      "amount": "5M",
+      "round": "Funding",
+      "investors": [
+        "1kx",
+        "Makers Fund",
+        "RockawayX",
+        "Sebastien Borget",
+        "Jeffrey Zirlin"
+      ]
+    },
+    {
+      "company": "World (ex Worldcoin)",
+      "type": "investment",
+      "date": "2025-05-21T16:38:13.000Z",
+      "rawText": "​​Blockchain-based human identity protocol World (ex Worldcoin) raised $135M in a funding round from Andreessen Horowitz (a16z crypto), Bain Capital Crypto, Selini Capital, Mirana Ventures, Arctic Digital.",
+      "amount": "135M",
+      "round": "Funding",
+      "investors": [
+        "Andreessen Horowitz (a16z crypto)",
+        "Bain Capital Crypto",
+        "Selini Capital",
+        "Mirana Ventures",
+        "Arctic Digital"
+      ]
+    },
+    {
+      "company": "TrueX",
+      "type": "investment",
+      "date": "2025-05-20T18:58:01.000Z",
+      "rawText": "​​Stablecoin-native advanced crypto exchange TrueX raised $11M in a Series A funding round led by Accomplice Blockchain, RRE Ventures, with participation from Reciprocal Ventures, Variant Fund, PayPal Ventures.",
+      "amount": "11M",
+      "round": "Series A",
+      "investors": [
+        "Accomplice Blockchain",
+        "RRE Ventures",
+        "Reciprocal Ventures",
+        "Variant Fund",
+        "PayPal Ventures"
+      ]
+    },
+    {
+      "company": "Rover",
+      "type": "investment",
+      "date": "2025-05-20T14:59:19.000Z",
+      "rawText": "​​Bitcoin liquid staking protocol Rover raised $4.10M in a Seed funding round from Animoca Ventures, CMS Holdings, Bloccelerate, Maelstrom, UTXO Management, Infinity Ventures Crypto (IVC), Builder Capital, RockTree Capital, Wise3 Ventures, Veil, Optic Capital, Relayer Capital, Stake Capital, WAGMI V",
+      "amount": "4.10M",
+      "round": "Seed",
+      "investors": [
+        "Animoca Ventures",
+        "CMS Holdings",
+        "Bloccelerate",
+        "Maelstrom",
+        "UTXO Management",
+        "Infinity Ventures Crypto (IVC)",
+        "Builder Capital",
+        "RockTree Capital",
+        "Wise3 Ventures",
+        "Veil",
+        "Optic Capital",
+        "Relayer Capital",
+        "Stake Capital",
+        "WAGMI V"
+      ]
+    },
+    {
+      "company": "Slash",
+      "type": "investment",
+      "date": "2025-05-20T14:59:18.000Z",
+      "rawText": "​​Verticalized fintech banking platform Slash raised $41M in a Series B funding round led by Goodwater Capital.",
+      "amount": "41M",
+      "round": "Series B",
+      "investors": [
+        "Goodwater Capital"
+      ]
+    },
+    {
+      "company": "Chibi Clash",
+      "type": "acquisition",
+      "date": "2025-05-20T14:59:18.000Z",
+      "rawText": "​​Fantasy Web3 gaming universe Chibi Clash has been acquired by Scrypted.",
+      "acquirer": "Scrypted",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "Catena Labs",
+      "type": "investment",
+      "date": "2025-05-20T11:38:27.000Z",
+      "rawText": "​​AI-native financial infrastructure Catena Labs raised $18M in a Seed funding round led by Andreessen Horowitz (a16z crypto), with participation from Breyer Capital, Circle Ventures, Coinbase Ventures.",
+      "amount": "18M",
+      "round": "Seed",
+      "investors": [
+        "Andreessen Horowitz (a16z crypto)",
+        "Breyer Capital",
+        "Circle Ventures",
+        "Coinbase Ventures"
+      ]
+    },
+    {
+      "company": "ClaimLink",
+      "type": "acquisition",
+      "date": "2025-05-19T18:53:30.000Z",
+      "rawText": "​​Gasless NFT and token distribution platform ClaimLink has been acquired by Origyn.",
+      "acquirer": "Origyn",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "DexterLab",
+      "type": "acquisition",
+      "date": "2025-05-19T10:53:43.000Z",
+      "rawText": "​​Solana developer DexterLab has been acquired by Alchemy.",
+      "acquirer": "Alchemy",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "TrendX",
+      "type": "investment",
+      "date": "2025-05-16T13:29:10.000Z",
+      "rawText": "​​AI-driven Web3 trend tracking and smart trading platform TrendX raised $5.20M in a funding round from Animoca Brands, Cream Labs.",
+      "amount": "5.20M",
+      "round": "Funding",
+      "investors": [
+        "Animoca Brands",
+        "Cream Labs"
+      ]
+    },
+    {
+      "company": "XSY (Unity)",
+      "type": "investment",
+      "date": "2025-05-16T13:29:10.000Z",
+      "rawText": "​​Avalanche-based DeFi yield platform and synthetic dollar XSY (Unity) raised $5M in a Series A funding round led by Borderless Capital, Protagonist, with participation from Paper Ventures, Blizzard, Chainview Capital, Sonic Boom Ventures.",
+      "amount": "5M",
+      "round": "Series A",
+      "investors": [
+        "Borderless Capital",
+        "Protagonist",
+        "Paper Ventures",
+        "Blizzard",
+        "Chainview Capital",
+        "Sonic Boom Ventures"
+      ],
+      "about": "Avalanche-based DeFi yield platform and synthetic dollar"
+    },
+    {
+      "company": "XP (Captain Labs)",
+      "type": "investment",
+      "date": "2025-05-16T13:29:10.000Z",
+      "rawText": "​​Web3 ticketing platform on Solana XP (Captain Labs) raised $6.20M in a Seed funding round led by Blockchange Ventures, with participation from L1D (L1 Digital), Reflexive Capital.",
+      "amount": "6.20M",
+      "round": "Seed",
+      "investors": [
+        "Blockchange Ventures",
+        "L1D (L1 Digital)",
+        "Reflexive Capital"
+      ]
+    },
+    {
+      "company": "Giza",
+      "type": "investment",
+      "date": "2025-05-15T19:26:53.000Z",
+      "rawText": "​​Company focused on building the Open Economy for AI Giza raised $2.20M in a funding round from CoinFund, Base Ecosystem Fund, Echo, Re7 Capital, Stake Capital, ID Theory, Contango Digital Assets, HASH CIB (Crypto Investment Bank), Metropolis DAO, zeroDAO, Spaceship DAO, Wise3 Ventures, Good Partne",
+      "amount": "2.20M",
+      "round": "Funding",
+      "investors": [
+        "CoinFund",
+        "Base Ecosystem Fund",
+        "Echo",
+        "Re7 Capital",
+        "Stake Capital",
+        "ID Theory",
+        "Contango Digital Assets",
+        "HASH CIB (Crypto Investment Bank)",
+        "Metropolis DAO",
+        "zeroDAO",
+        "Spaceship DAO",
+        "Wise3 Ventures",
+        "Good Partne"
+      ],
+      "about": "Company focused on building the Open Economy for AI"
+    },
+    {
+      "company": "Flood",
+      "type": "acquisition",
+      "date": "2025-05-15T19:26:53.000Z",
+      "rawText": "​​Ethereum-focused DEX aggregator Flood has been acquired by 0x Labs.",
+      "acquirer": "0x Labs",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "KYD Labs",
+      "type": "investment",
+      "date": "2025-05-14T16:39:15.000Z",
+      "rawText": "​​Web3 ticketing platform on Aptos KYD Labs raised $7.10M in a Seed funding round led by a16z Crypto Startup Accelerator (CSX), with participation from Finality Capital, Ambush Capital, TechStars, Jay Eum, Nakul Gupta.",
+      "amount": "7.10M",
+      "round": "Seed",
+      "investors": [
+        "a16z Crypto Startup Accelerator (CSX)",
+        "Finality Capital",
+        "Ambush Capital",
+        "TechStars",
+        "Jay Eum",
+        "Nakul Gupta"
+      ]
+    },
+    {
+      "company": "N1",
+      "type": "investment",
+      "date": "2025-05-14T16:39:15.000Z",
+      "rawText": "​​Layer 1 blockchain for scalable applications N1 (ex Layer N) raised $2M in a Public sale. Sale was hosted on the Echo.",
+      "amount": "2M",
+      "round": "Public sale",
+      "investors": []
+    },
+    {
+      "company": "Gnosis HQ",
+      "type": "acquisition",
+      "date": "2025-05-14T16:39:14.000Z",
+      "rawText": "​​Self-custodial business finance platform Gnosis HQ (ex Headquarters) has been acquired by Gnosis.",
+      "acquirer": "Gnosis",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "Perpl",
+      "type": "investment",
+      "date": "2025-05-13T14:21:43.000Z",
+      "rawText": "​​Monad's on-chain perpetual futures DEX Perpl raised $9.25M in a funding round led by Dragonfly Capital, Ergonia, with participation from Brevan Howard Digital, Mirana Ventures, L1D (L1 Digital), Hashkey Capital, CMS Holdings, Breed VC.",
+      "amount": "9.25M",
+      "round": "Funding",
+      "investors": [
+        "Dragonfly Capital",
+        "Ergonia",
+        "Brevan Howard Digital",
+        "Mirana Ventures",
+        "L1D (L1 Digital)",
+        "Hashkey Capital",
+        "CMS Holdings",
+        "Breed VC"
+      ],
+      "about": "Monad's on-chain perpetual futures DEX"
+    },
+    {
+      "company": "Openverse",
+      "type": "investment",
+      "date": "2025-05-13T14:21:38.000Z",
+      "rawText": "​​Value internet infrastructure Openverse raised $11M in a Strategic funding round from Castrum Capital, Asva Capital, The DuckDao, tbv.",
+      "amount": "11M",
+      "round": "Strategic",
+      "investors": [
+        "Castrum Capital",
+        "Asva Capital",
+        "The DuckDao",
+        "tbv"
+      ]
+    },
+    {
+      "company": "SpaceComputer",
+      "type": "investment",
+      "date": "2025-05-13T14:21:38.000Z",
+      "rawText": "​​Orbital blockchain security infrastructure SpaceComputer closed Pre-seed funding round led by Primitive, with participation from Nascent, Tangent Ventures, Symbolic Capital (ex Hyperedge Capital), Public Works, Merkle Ventures, Meltem Demirors, Sandeep Nailwal, Loi Luu. Amount raised is not disclo",
+      "amount": "Undisclosed",
+      "round": "Pre-Seed",
+      "investors": [
+        "Primitive",
+        "Nascent",
+        "Tangent Ventures",
+        "Symbolic Capital (ex Hyperedge Capital)",
+        "Public Works",
+        "Merkle Ventures",
+        "Meltem Demirors",
+        "Sandeep Nailwal",
+        "Loi Luu"
+      ],
+      "about": "Orbital blockchain security infrastructure"
+    },
+    {
+      "company": "Nirvana Labs",
+      "type": "investment",
+      "date": "2025-05-13T14:21:38.000Z",
+      "rawText": "​​Web3 infrastructure provider Nirvana Labs raised $6M in a Seed funding round led by Crucible Capital, Jump Crypto, with participation from RW3 Ventures, Castle Island Ventures, Hash3.",
+      "amount": "6M",
+      "round": "Seed",
+      "investors": [
+        "Crucible Capital",
+        "Jump Crypto",
+        "RW3 Ventures",
+        "Castle Island Ventures",
+        "Hash3"
+      ],
+      "about": "Web3 infrastructure provider"
+    },
+    {
+      "company": "Mountain Protocol",
+      "type": "acquisition",
+      "date": "2025-05-13T14:21:38.000Z",
+      "rawText": "​​Decentralized lending protocol Mountain Protocol has been acquired by Anchorage Digital.",
+      "acquirer": "Anchorage Digital",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "DoubleUp",
+      "type": "investment",
+      "date": "2025-05-12T15:37:19.000Z",
+      "rawText": "​​Decentralized casino on Sui DoubleUp raised $4M in a Seed funding round led by Karatage, with participation from Mysten Labs, Selini Capital, EBlock Capital, Comma3 Ventures, Four Pillars, Alpha DAO, Auros Global.",
+      "amount": "4M",
+      "round": "Seed",
+      "investors": [
+        "Karatage",
+        "Mysten Labs",
+        "Selini Capital",
+        "EBlock Capital",
+        "Comma3 Ventures",
+        "Four Pillars",
+        "Alpha DAO",
+        "Auros Global"
+      ],
+      "about": "Decentralized casino on Sui"
+    },
+    {
+      "company": "Turtle Club",
+      "type": "investment",
+      "date": "2025-05-12T13:04:40.000Z",
+      "rawText": "​​Web3 liquidity distribution protocol Turtle Club raised $6.20M in a Seed funding round led by Theia, with participation from SIG DTI (a Susquehanna International Group Company), ConsenSys, Laser Digital, L2 Iterative Ventures (L2IV), Re7 Labs, Selini Capital, Chorus One, Trident Digital, Auros Glo",
+      "amount": "6.20M",
+      "round": "Seed",
+      "investors": [
+        "Theia",
+        "SIG DTI (a Susquehanna International Group Company)",
+        "ConsenSys",
+        "Laser Digital",
+        "L2 Iterative Ventures (L2IV)",
+        "Re7 Labs",
+        "Selini Capital",
+        "Chorus One",
+        "Trident Digital",
+        "Auros Glo"
+      ]
+    },
+    {
+      "company": "Fleek",
+      "type": "investment",
+      "date": "2025-05-09T15:06:10.000Z",
+      "rawText": "​​The agentic cloud platform Fleek raised $7M in a Public sale round at a $75M FDV. Sale was hosted on the Coinlist.",
+      "amount": "7M",
+      "round": "Public sale",
+      "investors": [],
+      "valuation": "75M"
+    },
+    {
+      "company": "T-Rex",
+      "type": "investment",
+      "date": "2025-05-09T11:51:37.000Z",
+      "rawText": "​​L1 blockchain for entertainment T-Rex raised $17M in a Pre-seed funding round from Portal Ventures, North Island Ventures (NIV), Framework Ventures, Arbitrum Gaming Ventures, ArkStream Capital, Mindfulness Capital, Hypersphere, SNZ Holding, Arche Fund (Coin98 Ventures).",
+      "amount": "17M",
+      "round": "Pre-seed",
+      "investors": [
+        "Portal Ventures",
+        "North Island Ventures (NIV)",
+        "Framework Ventures",
+        "Arbitrum Gaming Ventures",
+        "ArkStream Capital",
+        "Mindfulness Capital",
+        "Hypersphere",
+        "SNZ Holding",
+        "Arche Fund (Coin98 Ventures)"
+      ],
+      "about": "L1 blockchain for entertainment"
+    },
+    {
+      "company": "GoQuant",
+      "type": "investment",
+      "date": "2025-05-09T09:14:19.000Z",
+      "rawText": "​​Low latency trading infrastructure GoQuant raised $4M in a Seed funding round led by GSR Markets LTD, with participation from Copper co, Lombard Odier, Capital Union Bank, TYR Capital, FRNT Financial.",
+      "amount": "4M",
+      "round": "Seed",
+      "investors": [
+        "GSR Markets LTD",
+        "Copper co",
+        "Lombard Odier",
+        "Capital Union Bank",
+        "TYR Capital",
+        "FRNT Financial"
+      ]
+    },
+    {
+      "company": "Deribit",
+      "type": "acquisition",
+      "date": "2025-05-08T16:56:39.000Z",
+      "rawText": "​​Crypto derivatives exchange Deribit has been acquired by Coinbase for $2.90B",
+      "acquirer": "Coinbase",
+      "amount": "2.90B"
+    },
+    {
+      "company": "Xweave",
+      "type": "investment",
+      "date": "2025-05-08T16:56:38.000Z",
+      "rawText": "​​Real-time blockchain payment platform Xweave raised $3M in a Seed funding round led by Jungle Ventures, Lightshift, with participation from Menyala, White Star Capital, Fabric Ventures, Digital Currency Group (DCG), The Venture Dept.",
+      "amount": "3M",
+      "round": "Seed",
+      "investors": [
+        "Jungle Ventures",
+        "Lightshift",
+        "Menyala",
+        "White Star Capital",
+        "Fabric Ventures",
+        "Digital Currency Group (DCG)",
+        "The Venture Dept."
+      ]
+    },
+    {
+      "company": "Sonic Labs",
+      "type": "investment",
+      "date": "2025-05-08T16:53:16.000Z",
+      "rawText": "​​EVM-compatible layer 1 blockchain Sonic Labs (ex FTM) raised $10M in a Strategic token round from Galaxy Digital.",
+      "amount": "10M",
+      "round": "Strategic",
+      "investors": [
+        "Galaxy Digital"
+      ],
+      "about": "EVM-compatible layer 1 blockchain"
+    },
+    {
+      "company": "Alt DRX",
+      "type": "investment",
+      "date": "2025-05-07T16:33:38.000Z",
+      "rawText": "​​Tokenized digital real estate platform Alt DRX raised $2.70M in a Series A funding round from Qatar Development Bank, Brand Capital, Hindustan Media Ventures (HMVL), Zee Group, WeFounderCircle, nX Capital.",
+      "amount": "2.70M",
+      "round": "Series A",
+      "investors": [
+        "Qatar Development Bank",
+        "Brand Capital",
+        "Hindustan Media Ventures (HMVL)",
+        "Zee Group",
+        "WeFounderCircle",
+        "nX Capital"
+      ]
+    },
+    {
+      "company": "Litheum",
+      "type": "investment",
+      "date": "2025-05-06T17:29:21.000Z",
+      "rawText": "​​Scalable layer 1 blockchain platform Litheum raised $750k in a Strategic funding round led by Alphemy Capital, Amber Group.",
+      "amount": "750k",
+      "round": "Strategic",
+      "investors": [
+        "Alphemy Capital",
+        "Amber Group"
+      ]
+    },
+    {
+      "company": "Fuze Finance",
+      "type": "investment",
+      "date": "2025-05-06T17:29:21.000Z",
+      "rawText": "​​Digital asset infrastructure platform Fuze Finance raised $12.20M in a Series A funding round led by Galaxy Digital, e& capital (etisalat and), with participation from Further Ventures.",
+      "amount": "12.20M",
+      "round": "Series A",
+      "investors": [
+        "Galaxy Digital",
+        "e& capital (etisalat and)",
+        "Further Ventures"
+      ]
+    },
+    {
+      "company": "Beincom",
+      "type": "investment",
+      "date": "2025-05-06T17:29:21.000Z",
+      "rawText": "​​SocialFi community platform Beincom raised $11M in a Private funding round.",
+      "amount": "11M",
+      "round": "Private Sale",
+      "investors": []
+    },
+    {
+      "company": "Sentora",
+      "type": "investment",
+      "date": "2025-05-06T17:15:48.000Z",
+      "rawText": "​​DeFi asset management platform Sentora raised $25M in a Series A funding round led by New Form Capital, with participation from Joint Effects, Tribe Capital, Ripple, UDHC, Curved Ventures, Bankai Ventures.",
+      "amount": "25M",
+      "round": "Series A",
+      "investors": [
+        "New Form Capital",
+        "Joint Effects",
+        "Tribe Capital",
+        "Ripple",
+        "UDHC",
+        "Curved Ventures",
+        "Bankai Ventures"
+      ]
+    },
+    {
+      "company": "DogeOS",
+      "type": "acquisition",
+      "date": "2025-05-06T17:15:48.000Z",
+      "rawText": "​​App layer for Dogecoin ecosystem DogeOS raised $6.90M in a funding round led by Polychain Capital."
+    },
+    {
+      "company": "Doppel",
+      "type": "investment",
+      "date": "2025-05-05T15:43:07.000Z",
+      "rawText": "​​Digital risk protection platform Doppel raised $35M in a Series B funding round led by Bessemer Venture Partners, with participation from 9Yards Capital, Sozo Ventures, Andreessen Horowitz (a16z crypto), South Park Commons, Strategic Cyber Ventures (SCV), Script Capital, Sabrina Hahn.",
+      "amount": "35M",
+      "round": "Series B",
+      "investors": [
+        "Bessemer Venture Partners",
+        "9Yards Capital",
+        "Sozo Ventures",
+        "Andreessen Horowitz (a16z crypto)",
+        "South Park Commons",
+        "Strategic Cyber Ventures (SCV)",
+        "Script Capital",
+        "Sabrina Hahn"
+      ]
+    },
+    {
+      "company": "Boop fun",
+      "type": "investment",
+      "date": "2025-05-02T15:24:51.000Z",
+      "rawText": "​​Solana-based memecoin launchpad Boop fun closed Angel funding round from Raj Gokal, Mert, WereMeow, Francesco Agosti, 0xSun. Amount raised is not disclosed.",
+      "amount": "Undisclosed",
+      "round": "Angel Round",
+      "investors": [
+        "Raj Gokal",
+        "Mert",
+        "WereMeow",
+        "Francesco Agosti",
+        "0xSun"
+      ]
+    },
+    {
+      "company": "aZen Protocol",
+      "type": "investment",
+      "date": "2025-05-02T15:24:51.000Z",
+      "rawText": "​​Decentralized AI computing infrastructure aZen Protocol raised $1.20M in a Seed funding round led by Waterdrip Capital, with participation from DWF Ventures, Rootz Labs, Mindfulness Capital, Attention Ventures, Quantum Leap Labs, DePIN X, Open Digital Infrastructure Group (ODIG).",
+      "amount": "1.20M",
+      "round": "Seed",
+      "investors": [
+        "Waterdrip Capital",
+        "DWF Ventures",
+        "Rootz Labs",
+        "Mindfulness Capital",
+        "Attention Ventures",
+        "Quantum Leap Labs",
+        "DePIN X",
+        "Open Digital Infrastructure Group (ODIG)"
+      ]
+    },
+    {
+      "company": "Dinari",
+      "type": "investment",
+      "date": "2025-05-02T15:24:51.000Z",
+      "rawText": "​​Company focused on providing access to RWA backed tokens Dinari raised $12.70M in a Series A funding round led by Hack VC, Blockchange Ventures, with participation from VanEck, F-Prime Capital, Blizzard, Arete Capital, Factor Capital, GSR Ventures, Silvermine Capital.",
+      "amount": "12.70M",
+      "round": "Series A",
+      "investors": [
+        "Hack VC",
+        "Blockchange Ventures",
+        "VanEck",
+        "F-Prime Capital",
+        "Blizzard",
+        "Arete Capital",
+        "Factor Capital",
+        "GSR Ventures",
+        "Silvermine Capital"
+      ],
+      "about": "Undisclosed"
+    },
+    {
+      "company": "Gata",
+      "type": "investment",
+      "date": "2025-04-30T14:45:02.000Z",
+      "rawText": "​​Decentralized AI Data infrastructure platform Gata (ex Aggregata) raised $4M in a Seed funding round from YZi Labs (ex Binance Labs), Gate Ventures, IDG Blockchain, Maelstrom, Manifold, MH Ventures, Anti Capital, Formless Capital, V3V Ventures, Dewhales Capital, WAGMI Ventures, 071labs (Zero Seven",
+      "amount": "4M",
+      "round": "Seed",
+      "investors": [
+        "YZi Labs",
+        "Gate Ventures",
+        "IDG Blockchain",
+        "Maelstrom",
+        "Manifold",
+        "MH Ventures",
+        "Anti Capital",
+        "Formless Capital",
+        "V3V Ventures",
+        "Dewhales Capital",
+        "WAGMI Ventures",
+        "071labs"
+      ],
+      "about": "Decentralized AI Data infrastructure platform"
+    },
+    {
+      "company": "ROVR",
+      "type": "investment",
+      "date": "2025-04-30T13:05:14.000Z",
+      "rawText": "​​Decentralized 3D mapping infrastructure protocol ROVR raised $2.60M in a Seed funding round led by Borderless Capital, Geodnet, with participation from IoTeX.",
+      "amount": "2.60M",
+      "round": "Seed",
+      "investors": [
+        "Borderless Capital",
+        "Geodnet",
+        "IoTeX"
+      ]
+    },
+    {
+      "company": "Terminal 3",
+      "type": "investment",
+      "date": "2025-04-30T13:03:34.000Z",
+      "rawText": "​​Web3 startup focused on decentralized data storage Terminal 3 raised $8M in a Seed funding round led by Illuminate Financial, Titan Fund, with participation from IDG Blockchain, 500 Startups (500 Global), Animoca Brands, BlackPine, Progression Fund, Consensys Mesh, Cherubic Ventures, Hard Yaka.",
+      "amount": "8M",
+      "round": "Seed",
+      "investors": [
+        "Illuminate Financial",
+        "Titan Fund",
+        "IDG Blockchain",
+        "500 Startups (500 Global)",
+        "Animoca Brands",
+        "BlackPine",
+        "Progression Fund",
+        "Consensys Mesh",
+        "Cherubic Ventures",
+        "Hard Yaka"
+      ],
+      "about": "Web3 startup focused on decentralized data storage"
+    },
+    {
+      "company": "Kaia",
+      "type": "investment",
+      "date": "2025-04-30T13:03:34.000Z",
+      "rawText": "​​Asia-focused L1 EVM blockchain Kaia closed funding round led by Blockchain Capital, 1kx, with participation from Galaxy Digital, The Spartan Group, IDG Capital, Mirana Ventures, SNZ Holding, Comma3 Ventures, Caladan, Lingfeng Innovation Fund (LIF), Waterdrip Capital, MEXC Ventures. Amount raised i",
+      "amount": "Undisclosed",
+      "round": "Funding",
+      "investors": [
+        "Blockchain Capital",
+        "1kx",
+        "Galaxy Digital",
+        "The Spartan Group",
+        "IDG Capital",
+        "Mirana Ventures",
+        "SNZ Holding",
+        "Comma3 Ventures",
+        "Caladan",
+        "Lingfeng Innovation Fund (LIF)",
+        "Waterdrip Capital",
+        "MEXC Ventures"
+      ]
+    },
+    {
+      "company": "ZAR",
+      "type": "investment",
+      "date": "2025-04-30T13:03:34.000Z",
+      "rawText": "​​Global USD digital wallet ZAR raised $7M in a funding round led by Dragonfly Capital, Andreessen Horowitz (a16z crypto), VanEck, with participation from Coinbase Ventures.",
+      "amount": "7M",
+      "round": "Funding",
+      "investors": [
+        "Dragonfly Capital",
+        "Andreessen Horowitz (a16z crypto)",
+        "VanEck",
+        "Coinbase Ventures"
+      ]
+    },
+    {
+      "company": "Unto Labs (ThruVM)",
+      "type": "investment",
+      "date": "2025-04-29T16:22:43.000Z",
+      "rawText": "​​RISC-V powered Layer 1 blockchain Unto Labs (ThruVM) raised $14.40M in a funding round led by Framework Ventures, Electric Capital.",
+      "amount": "14.40M",
+      "round": "Funding",
+      "investors": [
+        "Framework Ventures",
+        "Electric Capital"
+      ]
+    },
+    {
+      "company": "Camp Network",
+      "type": "investment",
+      "date": "2025-04-29T14:24:16.000Z",
+      "rawText": "​​Autonomous IP layer 1 blockchain Camp Network raised $25M in a Series A funding round led by 1kx, Blockchain Capital, with participation from OKX Ventures (ex OKEx Blockdream Ventures), Lattice Fund, Paper Ventures, dao5 (daofive), TrueBridge Capital, Selini Capital, Hypersphere, Maven 11 Capital,",
+      "amount": "25M",
+      "round": "Series A",
+      "investors": [
+        "1kx",
+        "Blockchain Capital",
+        "OKX Ventures (ex OKEx Blockdream Ventures)",
+        "Lattice Fund",
+        "Paper Ventures",
+        "dao5 (daofive)",
+        "TrueBridge Capital",
+        "Selini Capital",
+        "Hypersphere",
+        "Maven 11 Capital"
+      ]
+    },
+    {
+      "company": "Miden",
+      "type": "investment",
+      "date": "2025-04-29T11:55:28.000Z",
+      "rawText": "​​Privacy blockchain Miden raised $25M in a Seed funding round led by Andreessen Horowitz (a16z crypto), Hack VC, 1kx, with participation from Finality Capital, Symbolic Capital (ex Hyperedge Capital), P2 Ventures (Polygon Ventures), MH Ventures, Delta Blockchain Fund, Avery Ching, Sreeram Kannan.",
+      "amount": "25M",
+      "round": "Seed",
+      "investors": [
+        "Andreessen Horowitz (a16z crypto)",
+        "Hack VC",
+        "1kx",
+        "Finality Capital",
+        "Symbolic Capital (ex Hyperedge Capital)",
+        "P2 Ventures (Polygon Ventures)",
+        "MH Ventures",
+        "Delta Blockchain Fund",
+        "Avery Ching",
+        "Sreeram Kannan"
+      ]
+    },
+    {
+      "company": "Yoake",
+      "type": "investment",
+      "date": "2025-04-28T19:21:01.000Z",
+      "rawText": "​​Web3 Japanese pop culture platform Yoake raised $1.25M in a Private funding round led by Next Web Capital, with participation from Bitbank Ventures, Credit Scend, Hakuhodo Keithley (Key3), Taisu Ventures, X2Y2.",
+      "amount": "1.25M",
+      "round": "Private Sale",
+      "investors": [
+        "Next Web Capital",
+        "Bitbank Ventures",
+        "Credit Scend",
+        "Hakuhodo Keithley (Key3)",
+        "Taisu Ventures",
+        "X2Y2"
+      ]
+    },
+    {
+      "company": "WineFi",
+      "type": "investment",
+      "date": "2025-04-28T19:21:01.000Z",
+      "rawText": "​​Wine investment platform WineFi raised $2M in a Seed funding round led by Coterie Holdings, with participation from SFC Capital, Founders Capital.",
+      "amount": "2M",
+      "round": "Seed",
+      "investors": [
+        "Coterie Holdings",
+        "SFC Capital",
+        "Founders Capital"
+      ]
+    },
+    {
+      "company": "Alpaca",
+      "type": "investment",
+      "date": "2025-04-25T15:55:52.000Z",
+      "rawText": "​​API platform for stock, options and crypto Alpaca raised $52M in a Series C funding round from 850 Management, Derayah Financial, National Investments Company, Portage Ventures, Unbound.",
+      "amount": "52M",
+      "round": "Series C",
+      "investors": [
+        "850 Management",
+        "Derayah Financial",
+        "National Investments Company",
+        "Portage Ventures",
+        "Unbound"
+      ],
+      "about": "API platform for stock, options and crypto"
+    },
+    {
+      "company": "MagicBlock",
+      "type": "acquisition",
+      "date": "2025-04-25T15:55:52.000Z",
+      "rawText": "​​Solana-based high-performance engine MagicBlock raised $7.50M in a Seed funding round led by Lightspeed Faction, with participation from Maven 11 Capital, Mechanism Capital, Robot Ventures, Delphi Ventures, Equilibrium co, Pivot Global, Anatoly Yakovenko, Tristan, Ajit Tripathi."
+    },
+    {
+      "company": "Nous Research",
+      "type": "investment",
+      "date": "2025-04-25T12:10:42.000Z",
+      "rawText": "​​Decentralized AI startup on Solana Nous Research raised $50M in a Series A funding round from Paradigm.",
+      "amount": "50M",
+      "round": "Series A",
+      "investors": [
+        "Paradigm"
+      ]
+    },
+    {
+      "company": "Catalysis",
+      "type": "investment",
+      "date": "2025-04-24T18:57:04.000Z",
+      "rawText": "​​Security abstraction layer Catalysis raised $1.25M in a Pre-seed funding round led by Hashed Emergent, with participation from Presto Labs, Spaceship DAO, FunFair Ventures, Cosmostation, Crypto Times.",
+      "amount": "1.25M",
+      "round": "Pre-seed",
+      "investors": [
+        "Hashed Emergent",
+        "Presto Labs",
+        "Spaceship DAO",
+        "FunFair Ventures",
+        "Cosmostation",
+        "Crypto Times"
+      ]
+    },
+    {
+      "company": "Inco",
+      "type": "investment",
+      "date": "2025-04-24T18:57:04.000Z",
+      "rawText": "​​Modular confidential computing Layer-1 blockchain Inco raised $5M in a Strategic funding round led by a16z Crypto Startup Accelerator (CSX), with participation from Coinbase Ventures, 1kx, Orange DAO, South Park Commons, Script Capital.",
+      "amount": "5M",
+      "round": "Strategic",
+      "investors": [
+        "a16z Crypto Startup Accelerator (CSX)",
+        "Coinbase Ventures",
+        "1kx",
+        "Orange DAO",
+        "South Park Commons",
+        "Script Capital"
+      ]
+    },
+    {
+      "company": "Theo",
+      "type": "investment",
+      "date": "2025-04-24T18:57:04.000Z",
+      "rawText": "​​Decentralized trading infrastructure platform Theo raised $20M in a funding round led by Hack VC, Anthos Capital, with participation from Manifold, Mirana Ventures, MH Ventures, Metalayer Ventures, SCB Limited, Amber Group, Selini Capital, MEXC, Flowdesk.",
+      "amount": "20M",
+      "round": "Funding",
+      "investors": [
+        "Hack VC",
+        "Anthos Capital",
+        "Manifold",
+        "Mirana Ventures",
+        "MH Ventures",
+        "Metalayer Ventures",
+        "SCB Limited",
+        "Amber Group",
+        "Selini Capital",
+        "MEXC",
+        "Flowdesk"
+      ]
+    },
+    {
+      "company": "Symbiotic",
+      "type": "investment",
+      "date": "2025-04-23T13:57:41.000Z",
+      "rawText": "​​Shared security protocol Symbiotic raised $29M in a Series A funding round led by Pantera Capital, with participation from Coinbase Ventures, Aave Companies, P2 Ventures (Polygon Ventures), Starkware, Stani Kulechov, Sandeep Nailwal, Anton Bukov, Anurag Arjun, Eric Wall.",
+      "amount": "29M",
+      "round": "Series A",
+      "investors": [
+        "Pantera Capital",
+        "Coinbase Ventures",
+        "Aave Companies",
+        "P2 Ventures (Polygon Ventures)",
+        "Starkware",
+        "Stani Kulechov",
+        "Sandeep Nailwal",
+        "Anton Bukov",
+        "Anurag Arjun",
+        "Eric Wall"
+      ]
+    },
+    {
+      "company": "Inflow",
+      "type": "investment",
+      "date": "2025-04-23T13:57:40.000Z",
+      "rawText": "​​Blockchain-powered global payment platform Inflow raised $1.10M in a Pre-seed funding round from Rockstart, Gnosis, Alliance DAO (ex DeFi Alliance), Plug and Play Ventures, Stake Capital.",
+      "amount": "1.10M",
+      "round": "Pre-seed",
+      "investors": [
+        "Rockstart",
+        "Gnosis",
+        "Alliance DAO (ex DeFi Alliance)",
+        "Plug and Play Ventures",
+        "Stake Capital"
+      ]
+    },
+    {
+      "company": "Mask Network",
+      "type": "investment",
+      "date": "2025-04-23T13:57:40.000Z",
+      "rawText": "​​Web3 social interaction portal Mask Network received $5M in a funding from DWF Labs.",
+      "amount": "5M",
+      "round": "Funding",
+      "investors": [
+        "DWF Labs"
+      ]
+    },
+    {
+      "company": "Arch Network",
+      "type": "investment",
+      "date": "2025-04-22T14:36:42.000Z",
+      "rawText": "​​Bitcoin-native application platform Arch Network raised $13M in a Series A funding round led by Pantera Capital, with participation from Multicoin Capital.",
+      "amount": "13M",
+      "round": "Series A",
+      "investors": [
+        "Pantera Capital",
+        "Multicoin Capital"
+      ]
+    },
+    {
+      "company": "Analog",
+      "type": "investment",
+      "date": "2025-04-22T14:32:28.000Z",
+      "rawText": "​​Omni-chain interoperability protocol Analog raised $15M in a token round from Bolts Capital.",
+      "amount": "15M",
+      "round": "Token Round",
+      "investors": [
+        "Bolts Capital"
+      ]
+    },
+    {
+      "company": "Tally",
+      "type": "investment",
+      "date": "2025-04-22T14:18:34.000Z",
+      "rawText": "​​Onchain DAO governance platform Tally raised $8M in a Series A funding round led by AppWorks, Blockchain Capital, with participation from BitGo.",
+      "amount": "8M",
+      "round": "Series A",
+      "investors": [
+        "AppWorks",
+        "Blockchain Capital",
+        "BitGo"
+      ]
+    },
+    {
+      "company": "Upexi",
+      "type": "investment",
+      "date": "2025-04-22T14:18:33.000Z",
+      "rawText": "​​Solana treasury and bitcoin mining platform Upexi raised $100M in a funding round led by GSR Markets LTD, with participation from Big Brain Holdings, Anagram, Delphi Ventures, White Star Capital, Maelstrom, Hivemind, Borderless Capital, Morgan Creek Capital, Elune Capital, Delta Blockchain Fund, A",
+      "amount": "100M",
+      "round": "Funding",
+      "investors": [
+        "GSR Markets LTD",
+        "Big Brain Holdings",
+        "Anagram",
+        "Delphi Ventures",
+        "White Star Capital",
+        "Maelstrom",
+        "Hivemind",
+        "Borderless Capital",
+        "Morgan Creek Capital",
+        "Elune Capital",
+        "Delta Blockchain Fund"
+      ]
+    },
+    {
+      "company": "Kado",
+      "type": "acquisition",
+      "date": "2025-04-22T09:45:01.000Z",
+      "rawText": "​​Fiat-to-crypto on-ramp platform Kado has been acquired by Swapped com.",
+      "acquirer": "Swapped com",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "ZND",
+      "type": "investment",
+      "date": "2025-04-19T14:59:19.000Z",
+      "rawText": "​​Digital finance platform ZND raised $20M in a funding round from Rollman Management Digital.",
+      "amount": "20M",
+      "round": "Funding",
+      "investors": [
+        "Rollman Management Digital"
+      ]
+    },
+    {
+      "company": "LayerZero",
+      "type": "investment",
+      "date": "2025-04-18T11:57:13.000Z",
+      "rawText": "​​Omnichain interoperability protocol LayerZero raised $55M in a token round from Andreessen Horowitz (a16z crypto).",
+      "amount": "55M",
+      "round": "Token Sale",
+      "investors": [
+        "Andreessen Horowitz (a16z crypto)"
+      ]
+    },
+    {
+      "company": "Neutrl",
+      "type": "investment",
+      "date": "2025-04-16T18:56:21.000Z",
+      "rawText": "​​Altcoin arbitrage yield protocol Neutrl raised $5M in a Seed funding round led by Stix, Accomplice Blockchain, with participation from Amber Group, Nascent, Figment Capital, SCB Limited, DCF God, Will Price, Taranveer Sabharwal, JPEG Trading, Michael Ng.",
+      "amount": "5M",
+      "round": "Seed",
+      "investors": [
+        "Stix",
+        "Accomplice Blockchain",
+        "Amber Group",
+        "Nascent",
+        "Figment Capital",
+        "SCB Limited",
+        "DCF God",
+        "Will Price",
+        "Taranveer Sabharwal",
+        "JPEG Trading",
+        "Michael Ng"
+      ]
+    },
+    {
+      "company": "ORO AI",
+      "type": "investment",
+      "date": "2025-04-16T15:23:32.000Z",
+      "rawText": "​​Decentralized AI data monetization platform ORO AI raised $6M in a Seed funding round led by a16z Crypto Startup Accelerator (CSX), Delphi Ventures, with participation from Ocular VC, Orange DAO, NEAR Protocol, 0G Labs.",
+      "amount": "6M",
+      "round": "Seed",
+      "investors": [
+        "a16z Crypto Startup Accelerator (CSX)",
+        "Delphi Ventures",
+        "Ocular VC",
+        "Orange DAO",
+        "NEAR Protocol",
+        "0G Labs"
+      ]
+    },
+    {
+      "company": "Auradine",
+      "type": "investment",
+      "date": "2025-04-16T15:23:32.000Z",
+      "rawText": "​​Bitcoin miner manufacturer Auradine raised $153M in a Series C funding round led by StepStone Group, with participation from Maverick Silicon, Premji Invest, Samsung Catalyst Fund, Qualcomm Ventures, Mayfield, MARA Holdings, GSBackers.",
+      "amount": "153M",
+      "round": "Series C",
+      "investors": [
+        "StepStone Group",
+        "Maverick Silicon",
+        "Premji Invest",
+        "Samsung Catalyst Fund",
+        "Qualcomm Ventures",
+        "Mayfield",
+        "MARA Holdings",
+        "GSBackers"
+      ]
+    },
+    {
+      "company": "Candy Digital",
+      "type": "acquisition",
+      "date": "2025-04-16T15:23:32.000Z",
+      "rawText": "​​Digital collectibles company Candy Digital has been acquired by Futureverse.",
+      "acquirer": "Futureverse",
+      "amount": "Undisclosed"
+    },
+    {
+      "company": "Glider",
+      "type": "investment",
+      "date": "2025-04-16T15:23:25.000Z",
+      "rawText": "​​Crypto investment startup Glider raised $4M in a funding round led by Andreessen Horowitz (a16z crypto), with participation from Coinbase Ventures, GSR Markets LTD, Uniswap Labs Ventures.",
+      "amount": "4M",
+      "round": "Funding",
+      "investors": [
+        "Andreessen Horowitz (a16z crypto)",
+        "Coinbase Ventures",
+        "GSR Markets LTD",
+        "Uniswap Labs Ventures"
+      ]
+    },
+    {
+      "company": "Embr Labs",
+      "type": "investment",
+      "date": "2025-04-16T15:23:25.000Z",
+      "rawText": "​​Meme-centric application on Initia Embr Labs raised $1.80M in a Pre-seed funding round led by Robot Ventures, Lattice Fund, with participation from TempleDAO, Daryl Lau.",
+      "amount": "1.80M",
+      "round": "Pre-seed",
+      "investors": [
+        "Robot Ventures",
+        "Lattice Fund",
+        "TempleDAO",
+        "Daryl Lau"
+      ]
+    },
+    {
+      "company": "Resolv",
+      "type": "investment",
+      "date": "2025-04-16T15:23:24.000Z",
+      "rawText": "​​Delta-neutral stablecoin and yield platform Resolv raised $10M in a Seed funding round led by Cyber Fund, Maven 11 Capital, with participation from Coinbase Ventures, Arrington Capital, gumi Cryptos Capital (gCC), Robot Ventures, Animoca Ventures, kpk (ex karpatkey), ether fi, No Limit Holdings (N",
+      "amount": "10M",
+      "round": "Seed",
+      "investors": [
+        "Cyber Fund",
+        "Maven 11 Capital",
+        "Coinbase Ventures",
+        "Arrington Capital",
+        "gumi Cryptos Capital (gCC)",
+        "Robot Ventures",
+        "Animoca Ventures",
+        "kpk (ex karpatkey)",
+        "ether fi",
+        "No Limit Holdings"
+      ]
+    },
+    {
+      "company": "DeFi project backed by Donald Trump World Liberty Financial",
+      "type": "investment",
+      "date": "2025-04-16T15:23:24.000Z",
+      "rawText": "​​DeFi project backed by Donald Trump World Liberty Financial received $25M in a token round from DWF Labs.",
+      "amount": "25M",
+      "round": "Token Sale",
+      "investors": [
+        "DWF Labs"
+      ]
+    },
+    {
+      "company": "Rekord AG",
+      "type": "investment",
+      "date": "2025-04-16T15:23:24.000Z",
+      "rawText": "​​Blockchain-based data verification platform Rekord AG raised $4.50M in a Seed funding round .",
+      "amount": "4.50M",
+      "round": "Seed",
+      "investors": []
+    },
+    {
+      "company": "Treehouse Finance",
+      "type": "investment",
+      "date": "2025-04-15T19:10:47.000Z",
+      "rawText": "​​DeFi analytics platform Treehouse Finance closed Strategic funding round from MassMutual Ventures (MMV), Guy Young, Darius Sit, Rich Teo, Matthew Tan, Jordi Alexander, Michael Ashby. Amount raised is not disclosed.",
+      "amount": "Undisclosed",
+      "round": "Strategic",
+      "investors": [
+        "MassMutual Ventures (MMV)",
+        "Guy Young",
+        "Darius Sit",
+        "Rich Teo",
+        "Matthew Tan",
+        "Jordi Alexander",
+        "Michael Ashby"
+      ],
+      "about": "DeFi analytics platform"
+    },
+    {
+      "company": "Hyperion",
+      "type": "investment",
+      "date": "2025-04-15T19:10:47.000Z",
+      "rawText": "​​Hybrid orderbook-AMM DEX on Aptos Hyperion closed Strategic funding round from OKX Ventures (ex OKEx Blockdream Ventures), Aptos Labs. Amount raised is not disclosed.",
+      "round": "Strategic",
+      "investors": [
+        "OKX Ventures (ex OKEx Blockdream Ventures)",
+        "Aptos Labs"
+      ]
+    },
+    {
+      "company": "Optimum",
+      "type": "investment",
+      "date": "2025-04-15T16:39:55.000Z",
+      "rawText": "​​High-performance blockchain memory infrastructure Optimum raised $11M in a Seed funding round led by 1kx, with participation from Robot Ventures, Finality Capital, The Spartan Group, CMT Digital, SNZ Holding, Triton Capital, Big Brain Holdings, CMS Holdings, LongHash Ventures, NGC Ventures (NEO Gl",
+      "amount": "11M",
+      "round": "Seed",
+      "investors": [
+        "1kx",
+        "Robot Ventures",
+        "Finality Capital",
+        "The Spartan Group",
+        "CMT Digital",
+        "SNZ Holding",
+        "Triton Capital",
+        "Big Brain Holdings",
+        "CMS Holdings",
+        "LongHash Ventures",
+        "NGC Ventures"
+      ]
+    },
+    {
+      "company": "Plastic Labs (Honcho)",
+      "type": "investment",
+      "date": "2025-04-14T13:16:54.000Z",
+      "rawText": "​​AI identity & cognition infrastructure platform Plastic Labs (Honcho) raised $5.35M in a Pre-seed funding round led by Variant Fund, White Star Capital, Betaworks Ventures, with participation from MozillaVentures, Seed Club Ventures, Greycroft, Differential Ventures, Scott Moore.",
+      "amount": "5.35M",
+      "round": "Pre-seed",
+      "investors": [
+        "Variant Fund",
+        "White Star Capital",
+        "Betaworks Ventures",
+        "MozillaVentures",
+        "Seed Club Ventures",
+        "Greycroft",
+        "Differential Ventures",
+        "Scott Moore"
+      ],
+      "about": "AI identity & cognition infrastructure platform"
+    },
+    {
+      "company": "OpenZK",
+      "type": "investment",
+      "date": "2025-04-12T15:30:18.000Z",
+      "rawText": "​​ZK-rollup layer 2 OpenZK raised $6M in a funding round from Animoca Brands, Coinstore Labs.",
+      "amount": "6M",
+      "round": "Funding",
+      "investors": [
+        "Animoca Brands",
+        "Coinstore Labs"
+      ]
+    },
+    {
+      "company": "BugsCoin",
+      "type": "investment",
+      "date": "2025-04-11T15:10:01.000Z",
+      "rawText": "​​Blockchain-based reward point system BugsCoin raised $12M in a Series A funding round from Becker Ventures, Castrum Capital, BullPerks, The DuckDao, Maxx Capital Official.",
+      "amount": "12M",
+      "round": "Series A",
+      "investors": [
+        "Becker Ventures",
+        "Castrum Capital",
+        "BullPerks",
+        "The DuckDao",
+        "Maxx Capital Official"
+      ]
+    }
+  ]
+}
